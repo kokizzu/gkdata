@@ -106,5 +106,14 @@
       "resource" : "c_047_t3",
       "resourceId" : 11,
       "unlockUserLevel" : 1
+   },
+   {
+      "bgm" : "Pocket_BGM_Chapter_001",
+      "c_idx" : 50,
+      "id" : 12,
+      "name" : 6146,
+      "resource" : "c_050_t3",
+      "resourceId" : 12,
+      "unlockUserLevel" : 1
    }
 ]

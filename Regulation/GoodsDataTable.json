@@ -276,51 +276,51 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
-      "name" : 4013,
+      "max" : 999,
+      "name" : 4032,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
       "rechargeType" : 0,
-      "serverFieldName" : "box001",
-      "storage" : 0,
+      "serverFieldName" : "box001_R",
+      "storage" : 1,
       "type" : 101
    },
    {
-      "description" : 4043,
-      "max" : 0,
-      "name" : 4013,
+      "description" : 4044,
+      "max" : 999,
+      "name" : 4033,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
       "rechargeType" : 0,
-      "serverFieldName" : "box002",
-      "storage" : 0,
+      "serverFieldName" : "box002_R",
+      "storage" : 1,
       "type" : 102
    },
    {
-      "description" : 4043,
-      "max" : 0,
-      "name" : 4013,
+      "description" : 4045,
+      "max" : 999,
+      "name" : 4034,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
       "rechargeType" : 0,
-      "serverFieldName" : "box003",
-      "storage" : 0,
+      "serverFieldName" : "box003_R",
+      "storage" : 1,
       "type" : 103
    },
    {
-      "description" : 4043,
-      "max" : 0,
-      "name" : 4013,
+      "description" : 4046,
+      "max" : 999,
+      "name" : 4035,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
       "rechargeType" : 0,
-      "serverFieldName" : "box004",
-      "storage" : 0,
+      "serverFieldName" : "box004_R",
+      "storage" : 1,
       "type" : 104
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -331,7 +331,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -342,7 +342,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -353,7 +353,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -364,7 +364,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -375,7 +375,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -386,7 +386,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -397,7 +397,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -408,7 +408,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -419,7 +419,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -430,7 +430,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -441,7 +441,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -452,7 +452,7 @@
    },
    {
       "description" : 4043,
-      "max" : 0,
+      "max" : 99,
       "name" : 4013,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -463,7 +463,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -474,7 +474,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -485,7 +485,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -496,7 +496,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -507,7 +507,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -518,7 +518,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -529,7 +529,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -540,7 +540,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -551,7 +551,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -562,7 +562,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -573,7 +573,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -584,7 +584,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -595,7 +595,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -606,7 +606,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -617,7 +617,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -628,7 +628,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -639,7 +639,7 @@
    },
    {
       "description" : 4044,
-      "max" : 0,
+      "max" : 99,
       "name" : 4014,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -650,7 +650,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -661,7 +661,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -672,7 +672,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -683,7 +683,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -694,7 +694,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -705,7 +705,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -716,7 +716,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -727,7 +727,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -738,7 +738,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -749,7 +749,7 @@
    },
    {
       "description" : 4045,
-      "max" : 0,
+      "max" : 99,
       "name" : 4015,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -760,7 +760,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -771,7 +771,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -782,7 +782,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -793,7 +793,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -804,7 +804,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -815,7 +815,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -826,7 +826,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -837,7 +837,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -848,7 +848,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -859,7 +859,7 @@
    },
    {
       "description" : 4046,
-      "max" : 0,
+      "max" : 99,
       "name" : 4016,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -870,7 +870,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -881,7 +881,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -892,7 +892,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -903,7 +903,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -914,7 +914,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -925,7 +925,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -936,7 +936,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -947,7 +947,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -958,7 +958,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -969,7 +969,7 @@
    },
    {
       "description" : 4047,
-      "max" : 0,
+      "max" : 99,
       "name" : 4017,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -980,7 +980,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -991,7 +991,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -1002,7 +1002,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -1013,7 +1013,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -1024,7 +1024,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -1035,7 +1035,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -1046,7 +1046,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -1057,7 +1057,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -1068,7 +1068,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,
@@ -1079,7 +1079,7 @@
    },
    {
       "description" : 4048,
-      "max" : 0,
+      "max" : 99,
       "name" : 4018,
       "rechargeMax" : 0,
       "rechargeTime" : 0,

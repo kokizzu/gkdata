@@ -9,7 +9,7 @@
          0
       ],
       "nexttime" : [
-         120,
+         180,
          0,
          0
       ],
@@ -33,16 +33,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 227,
-      "positiony" : 188,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 242,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110146,
       "stageType" : 1,
       "symbol" : 110120
@@ -57,16 +57,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 365,
-      "positiony" : 334,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 422,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110147,
       "stageType" : 1,
       "symbol" : 110121
@@ -81,16 +81,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 312,
-      "positiony" : 537,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 585,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110148,
       "stageType" : 1,
       "symbol" : 110122
@@ -105,16 +105,16 @@
          2
       ],
       "nexttime" : [
-         120,
-         120,
-         120
+         180,
+         180,
+         180
       ],
       "oPoint" : 10,
       "positionx" : 469,
-      "positiony" : 175,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 235,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110149,
       "stageType" : 1,
       "symbol" : 110123
@@ -129,16 +129,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 575,
-      "positiony" : 362,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 413,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110150,
       "stageType" : 1,
       "symbol" : 110124
@@ -153,16 +153,16 @@
          4
       ],
       "nexttime" : [
-         120,
-         120,
-         120
+         180,
+         180,
+         180
       ],
       "oPoint" : 10,
       "positionx" : 557,
-      "positiony" : 554,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 594,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110151,
       "stageType" : 1,
       "symbol" : 110125
@@ -177,16 +177,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 703,
-      "positiony" : 177,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 316,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110152,
       "stageType" : 1,
       "symbol" : 110126
@@ -201,16 +201,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 752,
-      "positiony" : 480,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 582,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110153,
       "stageType" : 1,
       "symbol" : 110127
@@ -225,16 +225,16 @@
          8
       ],
       "nexttime" : [
-         120,
-         120,
-         120
+         180,
+         180,
+         180
       ],
       "oPoint" : 10,
       "positionx" : 916,
       "positiony" : 273,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110154,
       "stageType" : 1,
       "symbol" : 110128
@@ -249,16 +249,16 @@
          9
       ],
       "nexttime" : [
-         120,
-         120,
-         120
+         180,
+         180,
+         180
       ],
       "oPoint" : 10,
       "positionx" : 990,
       "positiony" : 525,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110155,
       "stageType" : 1,
       "symbol" : 110129
@@ -273,16 +273,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
-      "positionx" : 1154,
-      "positiony" : 316,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positionx" : 1104,
+      "positiony" : 177,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110156,
       "stageType" : 1,
       "symbol" : 110130
@@ -297,16 +297,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
-      "positionx" : 1225,
-      "positiony" : 582,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positionx" : 1175,
+      "positiony" : 480,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110157,
       "stageType" : 1,
       "symbol" : 110131
@@ -321,16 +321,16 @@
          12
       ],
       "nexttime" : [
-         120,
-         120,
-         120
+         180,
+         180,
+         180
       ],
       "oPoint" : 10,
       "positionx" : 1336,
-      "positiony" : 235,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 175,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110158,
       "stageType" : 1,
       "symbol" : 110132
@@ -345,16 +345,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 1327,
-      "positiony" : 413,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 362,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110159,
       "stageType" : 1,
       "symbol" : 110133
@@ -369,16 +369,16 @@
          13
       ],
       "nexttime" : [
-         120,
-         120,
-         120
+         180,
+         180,
+         180
       ],
       "oPoint" : 10,
       "positionx" : 1427,
-      "positiony" : 594,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 554,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110160,
       "stageType" : 1,
       "symbol" : 110134
@@ -393,16 +393,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 1562,
-      "positiony" : 242,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 188,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110161,
       "stageType" : 1,
       "symbol" : 110135
@@ -417,16 +417,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 1519,
-      "positiony" : 422,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 334,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110162,
       "stageType" : 1,
       "symbol" : 110136
@@ -441,16 +441,16 @@
          0
       ],
       "nexttime" : [
-         120,
-         120,
+         180,
+         180,
          0
       ],
       "oPoint" : 10,
       "positionx" : 1666,
-      "positiony" : 585,
-      "rewardCount" : 100,
-      "rewardIdx" : 4,
-      "rewardType" : 1,
+      "positiony" : 537,
+      "rewardCount" : 1,
+      "rewardIdx" : 104,
+      "rewardType" : 4,
       "s_idx" : 110163,
       "stageType" : 1,
       "symbol" : 110137
@@ -465,7 +465,7 @@
          0
       ],
       "nexttime" : [
-         120,
+         180,
          0,
          0
       ],
