@@ -2865,6 +2865,21 @@
       "typeidx" : 20002
    },
    {
+      "display" : 4,
+      "idx" : 325,
+      "navigatortype1" : 7,
+      "navigatortype2" : 0,
+      "navigatortype3" : 0,
+      "position1" : 0,
+      "position2" : 0,
+      "position3" : 0,
+      "price" : 100,
+      "pricetype" : 1,
+      "pricetypeidx" : 4,
+      "type" : 5,
+      "typeidx" : 20003
+   },
+   {
       "display" : 3,
       "idx" : 50,
       "navigatortype1" : 9,

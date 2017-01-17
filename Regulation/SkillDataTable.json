@@ -8975,7 +8975,7 @@
       "cooldownPoint" : 3,
       "criticalChance" : 0,
       "criticalChanceBonus" : 0,
-      "cutInEffectId" : "-",
+      "cutInEffectId" : 50192,
       "depletion" : 0,
       "firePatterns" : [
          "0000P0000",
