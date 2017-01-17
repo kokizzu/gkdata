@@ -1,0 +1,162 @@
+[
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 5,
+      "idx" : 1,
+      "positionx" : 250,
+      "positiony" : 230
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 10,
+      "idx" : 2,
+      "positionx" : 403,
+      "positiony" : 373
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 15,
+      "idx" : 3,
+      "positionx" : 170,
+      "positiony" : 520
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 20,
+      "idx" : 4,
+      "positionx" : 360,
+      "positiony" : 625
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 25,
+      "idx" : 5,
+      "positionx" : 591,
+      "positiony" : 577
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 30,
+      "idx" : 6,
+      "positionx" : 654,
+      "positiony" : 368
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 35,
+      "idx" : 7,
+      "positionx" : 659,
+      "positiony" : 174
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 40,
+      "idx" : 8,
+      "positionx" : 934,
+      "positiony" : 240
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 45,
+      "idx" : 9,
+      "positionx" : 886,
+      "positiony" : 493
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 50,
+      "idx" : 10,
+      "positionx" : 1068,
+      "positiony" : 564
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 55,
+      "idx" : 11,
+      "positionx" : 1530,
+      "positiony" : 532
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 60,
+      "idx" : 12,
+      "positionx" : 1683,
+      "positiony" : 615
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 65,
+      "idx" : 13,
+      "positionx" : 1450,
+      "positiony" : 368
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 70,
+      "idx" : 14,
+      "positionx" : 1640,
+      "positiony" : 169
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 75,
+      "idx" : 15,
+      "positionx" : 1871,
+      "positiony" : 310
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 80,
+      "idx" : 16,
+      "positionx" : 1934,
+      "positiony" : 559
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 85,
+      "idx" : 17,
+      "positionx" : 1939,
+      "positiony" : 650
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 90,
+      "idx" : 18,
+      "positionx" : 2214,
+      "positiony" : 512
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 95,
+      "idx" : 19,
+      "positionx" : 2166,
+      "positiony" : 302
+   },
+   {
+      "battlemap" : "land_needleleaf",
+      "enemymap" : "land_needleleaf",
+      "guildpoint" : 100,
+      "idx" : 20,
+      "positionx" : 2348,
+      "positiony" : 164
+   }
+]

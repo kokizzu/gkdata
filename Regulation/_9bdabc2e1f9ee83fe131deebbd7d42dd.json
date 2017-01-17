@@ -1,0 +1,207 @@
+[
+   {
+      "rate" : 100,
+      "rewardCount" : 1,
+      "rewardId" : 2
+   },
+   {
+      "rate" : 100,
+      "rewardCount" : 1,
+      "rewardId" : 5
+   },
+   {
+      "rate" : 100,
+      "rewardCount" : 1,
+      "rewardId" : 13
+   },
+   {
+      "rate" : 100,
+      "rewardCount" : 1,
+      "rewardId" : 35
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 1
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 4
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 32
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 33
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 34
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 36
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 38
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 13
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 41
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 39
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 35
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 2
+   },
+   {
+      "rate" : 200,
+      "rewardCount" : 2,
+      "rewardId" : 5
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 1
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 4
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 32
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 33
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 34
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 36
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 38
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 13
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 41
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 39
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 35
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 2
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 5
+   },
+   {
+      "rate" : 150,
+      "rewardCount" : 3,
+      "rewardId" : 11
+   },
+   {
+      "rate" : 20,
+      "rewardCount" : 1,
+      "rewardId" : 4
+   },
+   {
+      "rate" : 30,
+      "rewardCount" : 1,
+      "rewardId" : 32
+   },
+   {
+      "rate" : 30,
+      "rewardCount" : 1,
+      "rewardId" : 33
+   },
+   {
+      "rate" : 25,
+      "rewardCount" : 1,
+      "rewardId" : 34
+   },
+   {
+      "rate" : 30,
+      "rewardCount" : 1,
+      "rewardId" : 36
+   },
+   {
+      "rate" : 25,
+      "rewardCount" : 1,
+      "rewardId" : 38
+   },
+   {
+      "rate" : 20,
+      "rewardCount" : 1,
+      "rewardId" : 13
+   },
+   {
+      "rate" : 20,
+      "rewardCount" : 1,
+      "rewardId" : 41
+   },
+   {
+      "rate" : 20,
+      "rewardCount" : 1,
+      "rewardId" : 39
+   },
+   {
+      "rate" : 20,
+      "rewardCount" : 1,
+      "rewardId" : 11
+   }
+]

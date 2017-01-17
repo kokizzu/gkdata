@@ -1,0 +1,482 @@
+[
+   {
+      "building" : "map_stage_blue",
+      "crossRoads" : 1,
+      "idx" : 1,
+      "next" : [
+         3,
+         0,
+         0
+      ],
+      "nexttime" : [
+         120,
+         0,
+         0
+      ],
+      "oPoint" : 0,
+      "positionx" : 146,
+      "positiony" : 428,
+      "rewardCount" : 0,
+      "rewardIdx" : 0,
+      "rewardType" : 0,
+      "s_idx" : 110342,
+      "stageType" : 0,
+      "symbol" : 0
+   },
+   {
+      "building" : "map_stage_research01",
+      "crossRoads" : 2,
+      "idx" : 2,
+      "next" : [
+         5,
+         3,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 227,
+      "positiony" : 188,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110146,
+      "stageType" : 1,
+      "symbol" : 110120
+   },
+   {
+      "building" : "map_stage_research01",
+      "crossRoads" : 2,
+      "idx" : 3,
+      "next" : [
+         4,
+         2,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 365,
+      "positiony" : 334,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110147,
+      "stageType" : 1,
+      "symbol" : 110121
+   },
+   {
+      "building" : "map_stage_research01",
+      "crossRoads" : 2,
+      "idx" : 4,
+      "next" : [
+         7,
+         3,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 312,
+      "positiony" : 537,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110148,
+      "stageType" : 1,
+      "symbol" : 110122
+   },
+   {
+      "building" : "map_stage_research02",
+      "crossRoads" : 3,
+      "idx" : 5,
+      "next" : [
+         8,
+         6,
+         2
+      ],
+      "nexttime" : [
+         120,
+         120,
+         120
+      ],
+      "oPoint" : 10,
+      "positionx" : 469,
+      "positiony" : 175,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110149,
+      "stageType" : 1,
+      "symbol" : 110123
+   },
+   {
+      "building" : "map_stage_research02",
+      "crossRoads" : 2,
+      "idx" : 6,
+      "next" : [
+         7,
+         5,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 575,
+      "positiony" : 362,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110150,
+      "stageType" : 1,
+      "symbol" : 110124
+   },
+   {
+      "building" : "map_stage_research02",
+      "crossRoads" : 3,
+      "idx" : 7,
+      "next" : [
+         9,
+         6,
+         4
+      ],
+      "nexttime" : [
+         120,
+         120,
+         120
+      ],
+      "oPoint" : 10,
+      "positionx" : 557,
+      "positiony" : 554,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110151,
+      "stageType" : 1,
+      "symbol" : 110125
+   },
+   {
+      "building" : "map_stage_research03",
+      "crossRoads" : 2,
+      "idx" : 8,
+      "next" : [
+         10,
+         5,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 703,
+      "positiony" : 177,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110152,
+      "stageType" : 1,
+      "symbol" : 110126
+   },
+   {
+      "building" : "map_stage_research03",
+      "crossRoads" : 2,
+      "idx" : 9,
+      "next" : [
+         11,
+         7,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 752,
+      "positiony" : 480,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110153,
+      "stageType" : 1,
+      "symbol" : 110127
+   },
+   {
+      "building" : "map_stage_research03",
+      "crossRoads" : 3,
+      "idx" : 10,
+      "next" : [
+         12,
+         11,
+         8
+      ],
+      "nexttime" : [
+         120,
+         120,
+         120
+      ],
+      "oPoint" : 10,
+      "positionx" : 916,
+      "positiony" : 273,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110154,
+      "stageType" : 1,
+      "symbol" : 110128
+   },
+   {
+      "building" : "map_stage_research03",
+      "crossRoads" : 3,
+      "idx" : 11,
+      "next" : [
+         13,
+         10,
+         9
+      ],
+      "nexttime" : [
+         120,
+         120,
+         120
+      ],
+      "oPoint" : 10,
+      "positionx" : 990,
+      "positiony" : 525,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110155,
+      "stageType" : 1,
+      "symbol" : 110129
+   },
+   {
+      "building" : "map_stage_research03",
+      "crossRoads" : 2,
+      "idx" : 12,
+      "next" : [
+         14,
+         10,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 1154,
+      "positiony" : 316,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110156,
+      "stageType" : 1,
+      "symbol" : 110130
+   },
+   {
+      "building" : "map_stage_research03",
+      "crossRoads" : 2,
+      "idx" : 13,
+      "next" : [
+         16,
+         11,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 1225,
+      "positiony" : 582,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110157,
+      "stageType" : 1,
+      "symbol" : 110131
+   },
+   {
+      "building" : "map_stage_research02",
+      "crossRoads" : 3,
+      "idx" : 14,
+      "next" : [
+         17,
+         15,
+         12
+      ],
+      "nexttime" : [
+         120,
+         120,
+         120
+      ],
+      "oPoint" : 10,
+      "positionx" : 1336,
+      "positiony" : 235,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110158,
+      "stageType" : 1,
+      "symbol" : 110132
+   },
+   {
+      "building" : "map_stage_research02",
+      "crossRoads" : 2,
+      "idx" : 15,
+      "next" : [
+         16,
+         14,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 1327,
+      "positiony" : 413,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110159,
+      "stageType" : 1,
+      "symbol" : 110133
+   },
+   {
+      "building" : "map_stage_research02",
+      "crossRoads" : 3,
+      "idx" : 16,
+      "next" : [
+         19,
+         15,
+         13
+      ],
+      "nexttime" : [
+         120,
+         120,
+         120
+      ],
+      "oPoint" : 10,
+      "positionx" : 1427,
+      "positiony" : 594,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110160,
+      "stageType" : 1,
+      "symbol" : 110134
+   },
+   {
+      "building" : "map_stage_research01",
+      "crossRoads" : 2,
+      "idx" : 17,
+      "next" : [
+         18,
+         14,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 1562,
+      "positiony" : 242,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110161,
+      "stageType" : 1,
+      "symbol" : 110135
+   },
+   {
+      "building" : "map_stage_research01",
+      "crossRoads" : 3,
+      "idx" : 18,
+      "next" : [
+         19,
+         17,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 1519,
+      "positiony" : 422,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110162,
+      "stageType" : 1,
+      "symbol" : 110136
+   },
+   {
+      "building" : "map_stage_research01",
+      "crossRoads" : 2,
+      "idx" : 19,
+      "next" : [
+         18,
+         16,
+         0
+      ],
+      "nexttime" : [
+         120,
+         120,
+         0
+      ],
+      "oPoint" : 10,
+      "positionx" : 1666,
+      "positiony" : 585,
+      "rewardCount" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "s_idx" : 110163,
+      "stageType" : 1,
+      "symbol" : 110137
+   },
+   {
+      "building" : "map_stage_red",
+      "crossRoads" : 1,
+      "idx" : 20,
+      "next" : [
+         18,
+         0,
+         0
+      ],
+      "nexttime" : [
+         120,
+         0,
+         0
+      ],
+      "oPoint" : 0,
+      "positionx" : 1732,
+      "positiony" : 377,
+      "rewardCount" : 0,
+      "rewardIdx" : 0,
+      "rewardType" : 0,
+      "s_idx" : 110343,
+      "stageType" : 0,
+      "symbol" : 0
+   }
+]

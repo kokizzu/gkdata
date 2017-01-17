@@ -1,0 +1,1073 @@
+[
+   {
+      "key" : "300221",
+      "off" : {
+         "duration" : 700,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : false
+      },
+      "on" : {
+         "duration" : 700,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : false
+      }
+   },
+   {
+      "key" : "4011",
+      "off" : {
+         "duration" : 5000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50012",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 5000,
+         "eventTime" : 2000,
+         "fireDelayTime" : 2000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50022",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3600,
+         "eventTime" : 1500,
+         "fireDelayTime" : 1500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50032",
+      "off" : {
+         "duration" : 5600,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : false
+      },
+      "on" : {
+         "duration" : 7000,
+         "eventTime" : 0,
+         "fireDelayTime" : 1100,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50042",
+      "off" : {
+         "duration" : 2000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 5000,
+         "eventTime" : 2800,
+         "fireDelayTime" : 2800,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50045",
+      "off" : {
+         "duration" : 5000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50052",
+      "off" : {
+         "duration" : 3500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3500,
+         "eventTime" : 1000,
+         "fireDelayTime" : 1000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50072",
+      "off" : {
+         "duration" : 3500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 4500,
+         "eventTime" : 1500,
+         "fireDelayTime" : 1500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50082",
+      "off" : {
+         "duration" : 6000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 8000,
+         "eventTime" : 0,
+         "fireDelayTime" : 1900,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50102",
+      "off" : {
+         "duration" : 3500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 5000,
+         "eventTime" : 0,
+         "fireDelayTime" : 1000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50112",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 4000,
+         "eventTime" : 0,
+         "fireDelayTime" : 1000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50122",
+      "off" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 4900,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 700,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50132",
+      "off" : {
+         "duration" : 2000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 2000,
+         "eventTime" : 500,
+         "fireDelayTime" : 500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50142",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3200,
+         "eventTime" : 1000,
+         "fireDelayTime" : 1000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50143",
+      "off" : {
+         "duration" : 5000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50152",
+      "off" : {
+         "duration" : 4500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 6500,
+         "eventTime" : -1,
+         "fireDelayTime" : 2500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50162",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 2000,
+         "eventTime" : 500,
+         "fireDelayTime" : 500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50172",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3300,
+         "eventTime" : 700,
+         "fireDelayTime" : 700,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50173",
+      "off" : {
+         "duration" : 1500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50182",
+      "off" : {
+         "duration" : 0,
+         "eventTime" : 800,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 2000,
+         "eventTime" : 300,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50184",
+      "off" : {
+         "duration" : 1500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : false
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : false
+      }
+   },
+   {
+      "key" : "50185",
+      "off" : {
+         "duration" : 5000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50192",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3200,
+         "eventTime" : 700,
+         "fireDelayTime" : 700,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50202",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 7000,
+         "eventTime" : 2000,
+         "fireDelayTime" : 2000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50212",
+      "off" : {
+         "duration" : 3500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 6500,
+         "eventTime" : 700,
+         "fireDelayTime" : 1700,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50222",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 4200,
+         "eventTime" : 0,
+         "fireDelayTime" : 2000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50262",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 2500,
+         "eventTime" : 600,
+         "fireDelayTime" : 600,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50272",
+      "off" : {
+         "duration" : 6000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 7000,
+         "eventTime" : 1000,
+         "fireDelayTime" : 1000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50282",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 2700,
+         "eventTime" : -1,
+         "fireDelayTime" : 700,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50302",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 5000,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 3000,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50309",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 1000,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 1000,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50312",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3400,
+         "eventTime" : -1,
+         "fireDelayTime" : 1000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50314",
+      "off" : {
+         "duration" : 1500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : false
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : false
+      }
+   },
+   {
+      "key" : "50322",
+      "off" : {
+         "duration" : 4000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 4000,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50332",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3000,
+         "eventTime" : 500,
+         "fireDelayTime" : 500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50335",
+      "off" : {
+         "duration" : 5000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50342",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 1300,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 4500,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 1300,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50344",
+      "off" : {
+         "duration" : 5000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50352",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 7000,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 2000,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50355",
+      "off" : {
+         "duration" : 7000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50362",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3000,
+         "eventTime" : 1000,
+         "fireDelayTime" : 1000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50365",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50372",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 6000,
+         "eventTime" : 2000,
+         "fireDelayTime" : 1500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50382",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 5500,
+         "eventTime" : 2000,
+         "fireDelayTime" : 2000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50392",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3500,
+         "eventTime" : 1500,
+         "fireDelayTime" : 1500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50402",
+      "off" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 4100,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 1500,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50412",
+      "off" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 2800,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 1500,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50422",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3200,
+         "eventTime" : -1,
+         "fireDelayTime" : 2000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50432",
+      "off" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 1000,
+         "timeSleepDuringFire" : false
+      },
+      "on" : {
+         "duration" : 5000,
+         "eventTime" : 0,
+         "fireDelayTime" : 400,
+         "hitDelayTime" : 2700,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50452",
+      "off" : {
+         "duration" : 2500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 4500,
+         "eventTime" : 600,
+         "fireDelayTime" : 500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50462",
+      "off" : {
+         "duration" : 7500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 8500,
+         "eventTime" : 700,
+         "fireDelayTime" : 1600,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "50472",
+      "off" : {
+         "duration" : 6000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 8500,
+         "eventTime" : 700,
+         "fireDelayTime" : 3000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "59992",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 5000,
+         "eventTime" : 2000,
+         "fireDelayTime" : 2000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "600061",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 5000,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "70042",
+      "off" : {
+         "duration" : 2000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 5000,
+         "eventTime" : 2800,
+         "fireDelayTime" : 2800,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "70162",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 2000,
+         "eventTime" : 500,
+         "fireDelayTime" : 500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "70182",
+      "off" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 2000,
+         "eventTime" : 500,
+         "fireDelayTime" : 500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "70184",
+      "off" : {
+         "duration" : 1500,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "70332",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3000,
+         "eventTime" : 500,
+         "fireDelayTime" : 500,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "70352",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 7000,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 2000,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "70362",
+      "off" : {
+         "duration" : 3000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 3000,
+         "eventTime" : 1000,
+         "fireDelayTime" : 1000,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
+      "key" : "Dummy",
+      "off" : {
+         "duration" : 5000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 0,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      }
+   }
+]

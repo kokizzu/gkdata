@@ -1,0 +1,832 @@
+[
+   {
+      "bankGold" : 15000,
+      "exp" : 0,
+      "goldIncrease" : 100,
+      "level" : 1,
+      "maxBullet" : 60,
+      "maxSkill" : 10,
+      "rewardBullet" : 0,
+      "uExp" : 0
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 5,
+      "goldIncrease" : 110,
+      "level" : 2,
+      "maxBullet" : 61,
+      "maxSkill" : 10,
+      "rewardBullet" : 50,
+      "uExp" : 5
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 10,
+      "goldIncrease" : 113,
+      "level" : 3,
+      "maxBullet" : 62,
+      "maxSkill" : 10,
+      "rewardBullet" : 51,
+      "uExp" : 15
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 15,
+      "goldIncrease" : 116,
+      "level" : 4,
+      "maxBullet" : 63,
+      "maxSkill" : 10,
+      "rewardBullet" : 52,
+      "uExp" : 30
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 20,
+      "goldIncrease" : 119,
+      "level" : 5,
+      "maxBullet" : 64,
+      "maxSkill" : 10,
+      "rewardBullet" : 53,
+      "uExp" : 50
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 50,
+      "goldIncrease" : 122,
+      "level" : 6,
+      "maxBullet" : 65,
+      "maxSkill" : 10,
+      "rewardBullet" : 54,
+      "uExp" : 100
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 80,
+      "goldIncrease" : 125,
+      "level" : 7,
+      "maxBullet" : 66,
+      "maxSkill" : 10,
+      "rewardBullet" : 55,
+      "uExp" : 180
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 100,
+      "goldIncrease" : 128,
+      "level" : 8,
+      "maxBullet" : 67,
+      "maxSkill" : 10,
+      "rewardBullet" : 56,
+      "uExp" : 280
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 120,
+      "goldIncrease" : 131,
+      "level" : 9,
+      "maxBullet" : 68,
+      "maxSkill" : 10,
+      "rewardBullet" : 57,
+      "uExp" : 400
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 140,
+      "goldIncrease" : 134,
+      "level" : 10,
+      "maxBullet" : 69,
+      "maxSkill" : 10,
+      "rewardBullet" : 58,
+      "uExp" : 540
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 160,
+      "goldIncrease" : 137,
+      "level" : 11,
+      "maxBullet" : 70,
+      "maxSkill" : 10,
+      "rewardBullet" : 59,
+      "uExp" : 700
+   },
+   {
+      "bankGold" : 15000,
+      "exp" : 180,
+      "goldIncrease" : 140,
+      "level" : 12,
+      "maxBullet" : 71,
+      "maxSkill" : 10,
+      "rewardBullet" : 60,
+      "uExp" : 880
+   },
+   {
+      "bankGold" : 15075,
+      "exp" : 200,
+      "goldIncrease" : 143,
+      "level" : 13,
+      "maxBullet" : 72,
+      "maxSkill" : 10,
+      "rewardBullet" : 61,
+      "uExp" : 1080
+   },
+   {
+      "bankGold" : 15150,
+      "exp" : 220,
+      "goldIncrease" : 146,
+      "level" : 14,
+      "maxBullet" : 73,
+      "maxSkill" : 10,
+      "rewardBullet" : 62,
+      "uExp" : 1300
+   },
+   {
+      "bankGold" : 15225,
+      "exp" : 240,
+      "goldIncrease" : 149,
+      "level" : 15,
+      "maxBullet" : 74,
+      "maxSkill" : 10,
+      "rewardBullet" : 63,
+      "uExp" : 1540
+   },
+   {
+      "bankGold" : 15300,
+      "exp" : 260,
+      "goldIncrease" : 152,
+      "level" : 16,
+      "maxBullet" : 75,
+      "maxSkill" : 10,
+      "rewardBullet" : 64,
+      "uExp" : 1800
+   },
+   {
+      "bankGold" : 15377,
+      "exp" : 280,
+      "goldIncrease" : 155,
+      "level" : 17,
+      "maxBullet" : 76,
+      "maxSkill" : 10,
+      "rewardBullet" : 65,
+      "uExp" : 2080
+   },
+   {
+      "bankGold" : 15453,
+      "exp" : 300,
+      "goldIncrease" : 158,
+      "level" : 18,
+      "maxBullet" : 77,
+      "maxSkill" : 10,
+      "rewardBullet" : 66,
+      "uExp" : 2380
+   },
+   {
+      "bankGold" : 15530,
+      "exp" : 320,
+      "goldIncrease" : 161,
+      "level" : 19,
+      "maxBullet" : 78,
+      "maxSkill" : 10,
+      "rewardBullet" : 67,
+      "uExp" : 2700
+   },
+   {
+      "bankGold" : 15606,
+      "exp" : 360,
+      "goldIncrease" : 164,
+      "level" : 20,
+      "maxBullet" : 79,
+      "maxSkill" : 10,
+      "rewardBullet" : 68,
+      "uExp" : 3060
+   },
+   {
+      "bankGold" : 15684,
+      "exp" : 400,
+      "goldIncrease" : 167,
+      "level" : 21,
+      "maxBullet" : 80,
+      "maxSkill" : 10,
+      "rewardBullet" : 69,
+      "uExp" : 3460
+   },
+   {
+      "bankGold" : 15762,
+      "exp" : 440,
+      "goldIncrease" : 170,
+      "level" : 22,
+      "maxBullet" : 81,
+      "maxSkill" : 10,
+      "rewardBullet" : 70,
+      "uExp" : 3900
+   },
+   {
+      "bankGold" : 15840,
+      "exp" : 480,
+      "goldIncrease" : 173,
+      "level" : 23,
+      "maxBullet" : 82,
+      "maxSkill" : 10,
+      "rewardBullet" : 71,
+      "uExp" : 4380
+   },
+   {
+      "bankGold" : 15918,
+      "exp" : 520,
+      "goldIncrease" : 176,
+      "level" : 24,
+      "maxBullet" : 83,
+      "maxSkill" : 10,
+      "rewardBullet" : 72,
+      "uExp" : 4900
+   },
+   {
+      "bankGold" : 15998,
+      "exp" : 560,
+      "goldIncrease" : 179,
+      "level" : 25,
+      "maxBullet" : 84,
+      "maxSkill" : 10,
+      "rewardBullet" : 73,
+      "uExp" : 5460
+   },
+   {
+      "bankGold" : 16077,
+      "exp" : 600,
+      "goldIncrease" : 182,
+      "level" : 26,
+      "maxBullet" : 85,
+      "maxSkill" : 10,
+      "rewardBullet" : 74,
+      "uExp" : 6060
+   },
+   {
+      "bankGold" : 16157,
+      "exp" : 640,
+      "goldIncrease" : 185,
+      "level" : 27,
+      "maxBullet" : 86,
+      "maxSkill" : 10,
+      "rewardBullet" : 75,
+      "uExp" : 6700
+   },
+   {
+      "bankGold" : 16236,
+      "exp" : 680,
+      "goldIncrease" : 188,
+      "level" : 28,
+      "maxBullet" : 87,
+      "maxSkill" : 10,
+      "rewardBullet" : 76,
+      "uExp" : 7380
+   },
+   {
+      "bankGold" : 16317,
+      "exp" : 720,
+      "goldIncrease" : 191,
+      "level" : 29,
+      "maxBullet" : 88,
+      "maxSkill" : 10,
+      "rewardBullet" : 77,
+      "uExp" : 8100
+   },
+   {
+      "bankGold" : 16398,
+      "exp" : 780,
+      "goldIncrease" : 194,
+      "level" : 30,
+      "maxBullet" : 89,
+      "maxSkill" : 10,
+      "rewardBullet" : 78,
+      "uExp" : 8880
+   },
+   {
+      "bankGold" : 16479,
+      "exp" : 840,
+      "goldIncrease" : 197,
+      "level" : 31,
+      "maxBullet" : 90,
+      "maxSkill" : 10,
+      "rewardBullet" : 79,
+      "uExp" : 9720
+   },
+   {
+      "bankGold" : 16560,
+      "exp" : 900,
+      "goldIncrease" : 200,
+      "level" : 32,
+      "maxBullet" : 91,
+      "maxSkill" : 10,
+      "rewardBullet" : 80,
+      "uExp" : 10620
+   },
+   {
+      "bankGold" : 16643,
+      "exp" : 960,
+      "goldIncrease" : 203,
+      "level" : 33,
+      "maxBullet" : 92,
+      "maxSkill" : 10,
+      "rewardBullet" : 81,
+      "uExp" : 11580
+   },
+   {
+      "bankGold" : 16725,
+      "exp" : 1020,
+      "goldIncrease" : 206,
+      "level" : 34,
+      "maxBullet" : 93,
+      "maxSkill" : 10,
+      "rewardBullet" : 82,
+      "uExp" : 12600
+   },
+   {
+      "bankGold" : 16808,
+      "exp" : 1080,
+      "goldIncrease" : 209,
+      "level" : 35,
+      "maxBullet" : 94,
+      "maxSkill" : 10,
+      "rewardBullet" : 83,
+      "uExp" : 13680
+   },
+   {
+      "bankGold" : 16892,
+      "exp" : 1140,
+      "goldIncrease" : 212,
+      "level" : 36,
+      "maxBullet" : 95,
+      "maxSkill" : 10,
+      "rewardBullet" : 84,
+      "uExp" : 14820
+   },
+   {
+      "bankGold" : 16976,
+      "exp" : 1200,
+      "goldIncrease" : 215,
+      "level" : 37,
+      "maxBullet" : 96,
+      "maxSkill" : 10,
+      "rewardBullet" : 85,
+      "uExp" : 16020
+   },
+   {
+      "bankGold" : 17060,
+      "exp" : 1260,
+      "goldIncrease" : 218,
+      "level" : 38,
+      "maxBullet" : 97,
+      "maxSkill" : 10,
+      "rewardBullet" : 86,
+      "uExp" : 17280
+   },
+   {
+      "bankGold" : 17144,
+      "exp" : 1320,
+      "goldIncrease" : 221,
+      "level" : 39,
+      "maxBullet" : 98,
+      "maxSkill" : 10,
+      "rewardBullet" : 87,
+      "uExp" : 18600
+   },
+   {
+      "bankGold" : 17229,
+      "exp" : 1400,
+      "goldIncrease" : 224,
+      "level" : 40,
+      "maxBullet" : 99,
+      "maxSkill" : 10,
+      "rewardBullet" : 88,
+      "uExp" : 20000
+   },
+   {
+      "bankGold" : 17315,
+      "exp" : 1480,
+      "goldIncrease" : 227,
+      "level" : 41,
+      "maxBullet" : 100,
+      "maxSkill" : 10,
+      "rewardBullet" : 89,
+      "uExp" : 21480
+   },
+   {
+      "bankGold" : 17400,
+      "exp" : 1560,
+      "goldIncrease" : 230,
+      "level" : 42,
+      "maxBullet" : 101,
+      "maxSkill" : 10,
+      "rewardBullet" : 90,
+      "uExp" : 23040
+   },
+   {
+      "bankGold" : 17487,
+      "exp" : 1640,
+      "goldIncrease" : 233,
+      "level" : 43,
+      "maxBullet" : 102,
+      "maxSkill" : 10,
+      "rewardBullet" : 91,
+      "uExp" : 24680
+   },
+   {
+      "bankGold" : 17574,
+      "exp" : 1720,
+      "goldIncrease" : 236,
+      "level" : 44,
+      "maxBullet" : 103,
+      "maxSkill" : 10,
+      "rewardBullet" : 92,
+      "uExp" : 26400
+   },
+   {
+      "bankGold" : 17661,
+      "exp" : 1820,
+      "goldIncrease" : 239,
+      "level" : 45,
+      "maxBullet" : 104,
+      "maxSkill" : 10,
+      "rewardBullet" : 93,
+      "uExp" : 28220
+   },
+   {
+      "bankGold" : 17748,
+      "exp" : 1920,
+      "goldIncrease" : 242,
+      "level" : 46,
+      "maxBullet" : 105,
+      "maxSkill" : 10,
+      "rewardBullet" : 94,
+      "uExp" : 30140
+   },
+   {
+      "bankGold" : 17837,
+      "exp" : 2020,
+      "goldIncrease" : 245,
+      "level" : 47,
+      "maxBullet" : 106,
+      "maxSkill" : 10,
+      "rewardBullet" : 95,
+      "uExp" : 32160
+   },
+   {
+      "bankGold" : 17925,
+      "exp" : 2120,
+      "goldIncrease" : 248,
+      "level" : 48,
+      "maxBullet" : 107,
+      "maxSkill" : 10,
+      "rewardBullet" : 96,
+      "uExp" : 34280
+   },
+   {
+      "bankGold" : 18014,
+      "exp" : 2220,
+      "goldIncrease" : 251,
+      "level" : 49,
+      "maxBullet" : 108,
+      "maxSkill" : 10,
+      "rewardBullet" : 97,
+      "uExp" : 36500
+   },
+   {
+      "bankGold" : 18104,
+      "exp" : 2340,
+      "goldIncrease" : 254,
+      "level" : 50,
+      "maxBullet" : 109,
+      "maxSkill" : 10,
+      "rewardBullet" : 98,
+      "uExp" : 38840
+   },
+   {
+      "bankGold" : 18194,
+      "exp" : 2460,
+      "goldIncrease" : 257,
+      "level" : 51,
+      "maxBullet" : 110,
+      "maxSkill" : 10,
+      "rewardBullet" : 99,
+      "uExp" : 41300
+   },
+   {
+      "bankGold" : 18284,
+      "exp" : 2580,
+      "goldIncrease" : 260,
+      "level" : 52,
+      "maxBullet" : 111,
+      "maxSkill" : 10,
+      "rewardBullet" : 100,
+      "uExp" : 43880
+   },
+   {
+      "bankGold" : 18374,
+      "exp" : 2700,
+      "goldIncrease" : 263,
+      "level" : 53,
+      "maxBullet" : 112,
+      "maxSkill" : 10,
+      "rewardBullet" : 101,
+      "uExp" : 46580
+   },
+   {
+      "bankGold" : 18465,
+      "exp" : 2820,
+      "goldIncrease" : 266,
+      "level" : 54,
+      "maxBullet" : 113,
+      "maxSkill" : 10,
+      "rewardBullet" : 102,
+      "uExp" : 49400
+   },
+   {
+      "bankGold" : 18557,
+      "exp" : 2960,
+      "goldIncrease" : 269,
+      "level" : 55,
+      "maxBullet" : 114,
+      "maxSkill" : 10,
+      "rewardBullet" : 103,
+      "uExp" : 52360
+   },
+   {
+      "bankGold" : 18648,
+      "exp" : 3100,
+      "goldIncrease" : 272,
+      "level" : 56,
+      "maxBullet" : 115,
+      "maxSkill" : 10,
+      "rewardBullet" : 104,
+      "uExp" : 55460
+   },
+   {
+      "bankGold" : 18741,
+      "exp" : 3240,
+      "goldIncrease" : 275,
+      "level" : 57,
+      "maxBullet" : 116,
+      "maxSkill" : 10,
+      "rewardBullet" : 105,
+      "uExp" : 58700
+   },
+   {
+      "bankGold" : 18834,
+      "exp" : 3380,
+      "goldIncrease" : 278,
+      "level" : 58,
+      "maxBullet" : 117,
+      "maxSkill" : 10,
+      "rewardBullet" : 106,
+      "uExp" : 62080
+   },
+   {
+      "bankGold" : 18927,
+      "exp" : 3520,
+      "goldIncrease" : 281,
+      "level" : 59,
+      "maxBullet" : 118,
+      "maxSkill" : 10,
+      "rewardBullet" : 107,
+      "uExp" : 65600
+   },
+   {
+      "bankGold" : 19022,
+      "exp" : 3740,
+      "goldIncrease" : 284,
+      "level" : 60,
+      "maxBullet" : 119,
+      "maxSkill" : 10,
+      "rewardBullet" : 108,
+      "uExp" : 69340
+   },
+   {
+      "bankGold" : 19116,
+      "exp" : 3960,
+      "goldIncrease" : 287,
+      "level" : 61,
+      "maxBullet" : 120,
+      "maxSkill" : 10,
+      "rewardBullet" : 109,
+      "uExp" : 73300
+   },
+   {
+      "bankGold" : 19211,
+      "exp" : 4180,
+      "goldIncrease" : 290,
+      "level" : 62,
+      "maxBullet" : 121,
+      "maxSkill" : 10,
+      "rewardBullet" : 110,
+      "uExp" : 77480
+   },
+   {
+      "bankGold" : 19307,
+      "exp" : 4500,
+      "goldIncrease" : 293,
+      "level" : 63,
+      "maxBullet" : 122,
+      "maxSkill" : 10,
+      "rewardBullet" : 111,
+      "uExp" : 81980
+   },
+   {
+      "bankGold" : 19403,
+      "exp" : 4820,
+      "goldIncrease" : 296,
+      "level" : 64,
+      "maxBullet" : 123,
+      "maxSkill" : 10,
+      "rewardBullet" : 112,
+      "uExp" : 86800
+   },
+   {
+      "bankGold" : 19499,
+      "exp" : 5140,
+      "goldIncrease" : 299,
+      "level" : 65,
+      "maxBullet" : 124,
+      "maxSkill" : 10,
+      "rewardBullet" : 113,
+      "uExp" : 91940
+   },
+   {
+      "bankGold" : 19595,
+      "exp" : 5580,
+      "goldIncrease" : 302,
+      "level" : 66,
+      "maxBullet" : 125,
+      "maxSkill" : 10,
+      "rewardBullet" : 114,
+      "uExp" : 97520
+   },
+   {
+      "bankGold" : 19692,
+      "exp" : 6020,
+      "goldIncrease" : 305,
+      "level" : 67,
+      "maxBullet" : 126,
+      "maxSkill" : 10,
+      "rewardBullet" : 115,
+      "uExp" : 103540
+   },
+   {
+      "bankGold" : 19790,
+      "exp" : 6460,
+      "goldIncrease" : 308,
+      "level" : 68,
+      "maxBullet" : 127,
+      "maxSkill" : 10,
+      "rewardBullet" : 116,
+      "uExp" : 110000
+   },
+   {
+      "bankGold" : 19887,
+      "exp" : 7060,
+      "goldIncrease" : 311,
+      "level" : 69,
+      "maxBullet" : 128,
+      "maxSkill" : 10,
+      "rewardBullet" : 117,
+      "uExp" : 117060
+   },
+   {
+      "bankGold" : 19986,
+      "exp" : 7660,
+      "goldIncrease" : 314,
+      "level" : 70,
+      "maxBullet" : 129,
+      "maxSkill" : 10,
+      "rewardBullet" : 118,
+      "uExp" : 124720
+   },
+   {
+      "bankGold" : 20086,
+      "exp" : 8260,
+      "goldIncrease" : 317,
+      "level" : 71,
+      "maxBullet" : 130,
+      "maxSkill" : 10,
+      "rewardBullet" : 119,
+      "uExp" : 132980
+   },
+   {
+      "bankGold" : 20187,
+      "exp" : 9040,
+      "goldIncrease" : 320,
+      "level" : 72,
+      "maxBullet" : 131,
+      "maxSkill" : 10,
+      "rewardBullet" : 120,
+      "uExp" : 142020
+   },
+   {
+      "bankGold" : 20288,
+      "exp" : 9820,
+      "goldIncrease" : 323,
+      "level" : 73,
+      "maxBullet" : 132,
+      "maxSkill" : 10,
+      "rewardBullet" : 121,
+      "uExp" : 151840
+   },
+   {
+      "bankGold" : 20389,
+      "exp" : 10600,
+      "goldIncrease" : 326,
+      "level" : 74,
+      "maxBullet" : 133,
+      "maxSkill" : 10,
+      "rewardBullet" : 122,
+      "uExp" : 162440
+   },
+   {
+      "bankGold" : 20491,
+      "exp" : 13100,
+      "goldIncrease" : 329,
+      "level" : 75,
+      "maxBullet" : 134,
+      "maxSkill" : 10,
+      "rewardBullet" : 123,
+      "uExp" : 175540
+   },
+   {
+      "bankGold" : 20594,
+      "exp" : 16400,
+      "goldIncrease" : 332,
+      "level" : 76,
+      "maxBullet" : 135,
+      "maxSkill" : 10,
+      "rewardBullet" : 124,
+      "uExp" : 191940
+   },
+   {
+      "bankGold" : 20697,
+      "exp" : 20500,
+      "goldIncrease" : 335,
+      "level" : 77,
+      "maxBullet" : 136,
+      "maxSkill" : 10,
+      "rewardBullet" : 125,
+      "uExp" : 212440
+   },
+   {
+      "bankGold" : 20800,
+      "exp" : 24800,
+      "goldIncrease" : 338,
+      "level" : 78,
+      "maxBullet" : 137,
+      "maxSkill" : 10,
+      "rewardBullet" : 126,
+      "uExp" : 237240
+   },
+   {
+      "bankGold" : 20904,
+      "exp" : 29100,
+      "goldIncrease" : 341,
+      "level" : 79,
+      "maxBullet" : 138,
+      "maxSkill" : 10,
+      "rewardBullet" : 127,
+      "uExp" : 266340
+   },
+   {
+      "bankGold" : 21009,
+      "exp" : 33400,
+      "goldIncrease" : 344,
+      "level" : 80,
+      "maxBullet" : 139,
+      "maxSkill" : 10,
+      "rewardBullet" : 128,
+      "uExp" : 299740
+   },
+   {
+      "bankGold" : 21114,
+      "exp" : 37700,
+      "goldIncrease" : 347,
+      "level" : 81,
+      "maxBullet" : 140,
+      "maxSkill" : 10,
+      "rewardBullet" : 129,
+      "uExp" : 337440
+   },
+   {
+      "bankGold" : 21220,
+      "exp" : 42000,
+      "goldIncrease" : 350,
+      "level" : 82,
+      "maxBullet" : 141,
+      "maxSkill" : 10,
+      "rewardBullet" : 130,
+      "uExp" : 379440
+   },
+   {
+      "bankGold" : 21326,
+      "exp" : 46300,
+      "goldIncrease" : 353,
+      "level" : 83,
+      "maxBullet" : 142,
+      "maxSkill" : 10,
+      "rewardBullet" : 131,
+      "uExp" : 425740
+   }
+]

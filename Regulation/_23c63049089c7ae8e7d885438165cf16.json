@@ -1,0 +1,122 @@
+[
+   {
+      "bonusCashMax" : 2,
+      "bonusCashMin" : 1,
+      "index" : 0,
+      "rewardRate" : 5000,
+      "time" : 60,
+      "typeId" : 401
+   },
+   {
+      "bonusCashMax" : 3,
+      "bonusCashMin" : 2,
+      "index" : 1,
+      "rewardRate" : 3800,
+      "time" : 120,
+      "typeId" : 401
+   },
+   {
+      "bonusCashMax" : 4,
+      "bonusCashMin" : 3,
+      "index" : 2,
+      "rewardRate" : 3000,
+      "time" : 180,
+      "typeId" : 401
+   },
+   {
+      "bonusCashMax" : 3,
+      "bonusCashMin" : 2,
+      "index" : 3,
+      "rewardRate" : 5000,
+      "time" : 60,
+      "typeId" : 402
+   },
+   {
+      "bonusCashMax" : 4,
+      "bonusCashMin" : 3,
+      "index" : 4,
+      "rewardRate" : 3800,
+      "time" : 120,
+      "typeId" : 402
+   },
+   {
+      "bonusCashMax" : 5,
+      "bonusCashMin" : 4,
+      "index" : 5,
+      "rewardRate" : 3000,
+      "time" : 180,
+      "typeId" : 402
+   },
+   {
+      "bonusCashMax" : 4,
+      "bonusCashMin" : 3,
+      "index" : 6,
+      "rewardRate" : 5000,
+      "time" : 60,
+      "typeId" : 403
+   },
+   {
+      "bonusCashMax" : 5,
+      "bonusCashMin" : 4,
+      "index" : 7,
+      "rewardRate" : 3800,
+      "time" : 120,
+      "typeId" : 403
+   },
+   {
+      "bonusCashMax" : 6,
+      "bonusCashMin" : 5,
+      "index" : 8,
+      "rewardRate" : 3000,
+      "time" : 180,
+      "typeId" : 403
+   },
+   {
+      "bonusCashMax" : 5,
+      "bonusCashMin" : 4,
+      "index" : 9,
+      "rewardRate" : 5000,
+      "time" : 60,
+      "typeId" : 404
+   },
+   {
+      "bonusCashMax" : 6,
+      "bonusCashMin" : 5,
+      "index" : 10,
+      "rewardRate" : 3800,
+      "time" : 120,
+      "typeId" : 404
+   },
+   {
+      "bonusCashMax" : 7,
+      "bonusCashMin" : 6,
+      "index" : 11,
+      "rewardRate" : 3000,
+      "time" : 180,
+      "typeId" : 404
+   },
+   {
+      "bonusCashMax" : 6,
+      "bonusCashMin" : 5,
+      "index" : 12,
+      "rewardRate" : 5000,
+      "time" : 60,
+      "typeId" : 405
+   },
+   {
+      "bonusCashMax" : 7,
+      "bonusCashMin" : 6,
+      "index" : 13,
+      "rewardRate" : 3800,
+      "time" : 120,
+      "typeId" : 405
+   },
+   {
+      "bonusCashMax" : 8,
+      "bonusCashMin" : 7,
+      "index" : 14,
+      "rewardRate" : 3000,
+      "time" : 180,
+      "typeId" : 405
+   }
+]
