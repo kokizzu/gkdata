@@ -1294,14 +1294,5 @@
       "serverFieldName" : "event_icon01",
       "storage" : 1,
       "type" : 20002
-   },
-   {
-      "description" : 4340,
-      "grade" : 1,
-      "max" : 99999,
-      "name" : 4339,
-      "serverFieldName" : "event_icon03",
-      "storage" : 1,
-      "type" : 20003
    }
 ]

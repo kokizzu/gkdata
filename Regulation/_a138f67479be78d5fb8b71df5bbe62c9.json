@@ -2200,11 +2200,161 @@
       "tier" : 5
    },
    {
+      "aim" : 11,
+      "atk" : 10,
+      "def" : 1,
+      "hp" : 34,
+      "index" : 220,
+      "key" : 252,
+      "luck" : 1,
+      "tier" : 1
+   },
+   {
+      "aim" : 22,
+      "atk" : 19,
+      "def" : 1,
+      "hp" : 68,
+      "index" : 221,
+      "key" : 252,
+      "luck" : 2,
+      "tier" : 2
+   },
+   {
+      "aim" : 37,
+      "atk" : 32,
+      "def" : 1,
+      "hp" : 112,
+      "index" : 222,
+      "key" : 252,
+      "luck" : 3,
+      "tier" : 3
+   },
+   {
+      "aim" : 52,
+      "atk" : 45,
+      "def" : 2,
+      "hp" : 157,
+      "index" : 223,
+      "key" : 252,
+      "luck" : 4,
+      "tier" : 4
+   },
+   {
+      "aim" : 73,
+      "atk" : 63,
+      "def" : 2,
+      "hp" : 224,
+      "index" : 224,
+      "key" : 252,
+      "luck" : 5,
+      "tier" : 5
+   },
+   {
+      "aim" : 8,
+      "atk" : 4,
+      "def" : 1,
+      "hp" : 23,
+      "index" : 225,
+      "key" : 253,
+      "luck" : 1,
+      "tier" : 1
+   },
+   {
+      "aim" : 22,
+      "atk" : 11,
+      "def" : 3,
+      "hp" : 68,
+      "index" : 226,
+      "key" : 253,
+      "luck" : 2,
+      "tier" : 2
+   },
+   {
+      "aim" : 40,
+      "atk" : 20,
+      "def" : 4,
+      "hp" : 124,
+      "index" : 227,
+      "key" : 253,
+      "luck" : 3,
+      "tier" : 3
+   },
+   {
+      "aim" : 50,
+      "atk" : 25,
+      "def" : 5,
+      "hp" : 157,
+      "index" : 228,
+      "key" : 253,
+      "luck" : 4,
+      "tier" : 4
+   },
+   {
+      "aim" : 71,
+      "atk" : 35,
+      "def" : 7,
+      "hp" : 224,
+      "index" : 229,
+      "key" : 253,
+      "luck" : 5,
+      "tier" : 5
+   },
+   {
+      "aim" : 7,
+      "atk" : 5,
+      "def" : 1,
+      "hp" : 23,
+      "index" : 230,
+      "key" : 254,
+      "luck" : 1,
+      "tier" : 1
+   },
+   {
+      "aim" : 19,
+      "atk" : 15,
+      "def" : 2,
+      "hp" : 68,
+      "index" : 231,
+      "key" : 254,
+      "luck" : 2,
+      "tier" : 2
+   },
+   {
+      "aim" : 31,
+      "atk" : 25,
+      "def" : 2,
+      "hp" : 112,
+      "index" : 232,
+      "key" : 254,
+      "luck" : 3,
+      "tier" : 3
+   },
+   {
+      "aim" : 46,
+      "atk" : 38,
+      "def" : 3,
+      "hp" : 168,
+      "index" : 233,
+      "key" : 254,
+      "luck" : 4,
+      "tier" : 4
+   },
+   {
+      "aim" : 61,
+      "atk" : 50,
+      "def" : 4,
+      "hp" : 224,
+      "index" : 234,
+      "key" : 254,
+      "luck" : 5,
+      "tier" : 5
+   },
+   {
       "aim" : 10,
       "atk" : 9,
       "def" : 1,
       "hp" : 37,
-      "index" : 220,
+      "index" : 235,
       "key" : 255,
       "luck" : 1,
       "tier" : 1
@@ -2214,7 +2364,7 @@
       "atk" : 17,
       "def" : 1,
       "hp" : 73,
-      "index" : 221,
+      "index" : 236,
       "key" : 255,
       "luck" : 2,
       "tier" : 2
@@ -2224,7 +2374,7 @@
       "atk" : 28,
       "def" : 1,
       "hp" : 121,
-      "index" : 222,
+      "index" : 237,
       "key" : 255,
       "luck" : 3,
       "tier" : 3
@@ -2234,7 +2384,7 @@
       "atk" : 39,
       "def" : 2,
       "hp" : 169,
-      "index" : 223,
+      "index" : 238,
       "key" : 255,
       "luck" : 4,
       "tier" : 4
@@ -2244,7 +2394,7 @@
       "atk" : 55,
       "def" : 2,
       "hp" : 241,
-      "index" : 224,
+      "index" : 239,
       "key" : 255,
       "luck" : 5,
       "tier" : 5
