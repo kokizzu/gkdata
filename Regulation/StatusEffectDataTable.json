@@ -5961,7 +5961,7 @@
       "accuracyScale" : 100,
       "attackDamageScale" : 280,
       "clingingTime" : 0,
-      "clingingTurn" : 1,
+      "clingingTurn" : 2,
       "criticalChanceScale" : 100,
       "depletionScale" : 100,
       "healingScale" : 100,
