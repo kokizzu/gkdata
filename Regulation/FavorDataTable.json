@@ -3864,6 +3864,174 @@
       "step" : 12
    },
    {
+      "cid" : 54,
+      "profile" : 45510,
+      "stat" : 6,
+      "statType" : 8,
+      "step" : 1
+   },
+   {
+      "cid" : 54,
+      "profile" : 45511,
+      "stat" : 40,
+      "statType" : 1,
+      "step" : 2
+   },
+   {
+      "cid" : 54,
+      "profile" : 45512,
+      "stat" : 8,
+      "statType" : 8,
+      "step" : 3
+   },
+   {
+      "cid" : 54,
+      "profile" : 45513,
+      "stat" : 300,
+      "statType" : 1,
+      "step" : 4
+   },
+   {
+      "cid" : 54,
+      "profile" : 45514,
+      "stat" : 300,
+      "statType" : 4,
+      "step" : 5
+   },
+   {
+      "cid" : 54,
+      "profile" : 45515,
+      "stat" : 10,
+      "statType" : 8,
+      "step" : 6
+   },
+   {
+      "cid" : 54,
+      "profile" : 45516,
+      "stat" : 20,
+      "statType" : 7,
+      "step" : 7
+   },
+   {
+      "cid" : 54,
+      "profile" : 45517,
+      "stat" : 12,
+      "statType" : 8,
+      "step" : 8
+   },
+   {
+      "cid" : 54,
+      "profile" : 45518,
+      "stat" : 500,
+      "statType" : 1,
+      "step" : 9
+   },
+   {
+      "cid" : 54,
+      "profile" : 45519,
+      "stat" : 12,
+      "statType" : 8,
+      "step" : 10
+   },
+   {
+      "cid" : 54,
+      "profile" : 47510,
+      "stat" : 200,
+      "statType" : 5,
+      "step" : 11
+   },
+   {
+      "cid" : 54,
+      "profile" : 47511,
+      "stat" : 1000,
+      "statType" : 1,
+      "step" : 12
+   },
+   {
+      "cid" : 55,
+      "profile" : 45520,
+      "stat" : 6,
+      "statType" : 8,
+      "step" : 1
+   },
+   {
+      "cid" : 55,
+      "profile" : 45521,
+      "stat" : 40,
+      "statType" : 1,
+      "step" : 2
+   },
+   {
+      "cid" : 55,
+      "profile" : 45522,
+      "stat" : 8,
+      "statType" : 8,
+      "step" : 3
+   },
+   {
+      "cid" : 55,
+      "profile" : 45523,
+      "stat" : 300,
+      "statType" : 1,
+      "step" : 4
+   },
+   {
+      "cid" : 55,
+      "profile" : 45524,
+      "stat" : 300,
+      "statType" : 4,
+      "step" : 5
+   },
+   {
+      "cid" : 55,
+      "profile" : 45525,
+      "stat" : 10,
+      "statType" : 8,
+      "step" : 6
+   },
+   {
+      "cid" : 55,
+      "profile" : 45526,
+      "stat" : 20,
+      "statType" : 7,
+      "step" : 7
+   },
+   {
+      "cid" : 55,
+      "profile" : 45527,
+      "stat" : 12,
+      "statType" : 8,
+      "step" : 8
+   },
+   {
+      "cid" : 55,
+      "profile" : 45528,
+      "stat" : 500,
+      "statType" : 1,
+      "step" : 9
+   },
+   {
+      "cid" : 55,
+      "profile" : 45529,
+      "stat" : 12,
+      "statType" : 8,
+      "step" : 10
+   },
+   {
+      "cid" : 55,
+      "profile" : 47520,
+      "stat" : 200,
+      "statType" : 5,
+      "step" : 11
+   },
+   {
+      "cid" : 55,
+      "profile" : 47521,
+      "stat" : 1000,
+      "statType" : 1,
+      "step" : 12
+   },
+   {
       "cid" : 999,
       "profile" : 45420,
       "stat" : 6,

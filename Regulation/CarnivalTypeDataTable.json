@@ -1870,5 +1870,70 @@
       "startDate" : "2017-02-07",
       "startLevel" : 1,
       "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 5,
+      "endDate" : "2017-02-21",
+      "endLevel" : 100,
+      "endTime" : "00:00:00",
+      "etc" : 0,
+      "idx" : 145,
+      "name" : 27073,
+      "sort" : 7,
+      "startDate" : "2017-02-14",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 5,
+      "endDate" : "2017-02-21",
+      "endLevel" : 100,
+      "endTime" : "00:00:00",
+      "etc" : 0,
+      "idx" : 146,
+      "name" : 27072,
+      "sort" : 8,
+      "startDate" : "2017-02-14",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 5,
+      "endDate" : "2017-02-21",
+      "endLevel" : 100,
+      "endTime" : "00:00:00",
+      "etc" : 0,
+      "idx" : 147,
+      "name" : 27095,
+      "sort" : 9,
+      "startDate" : "2017-02-14",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 5,
+      "endDate" : "2017-02-21",
+      "endLevel" : 100,
+      "endTime" : "00:00:00",
+      "etc" : 0,
+      "idx" : 148,
+      "name" : 27096,
+      "sort" : 10,
+      "startDate" : "2017-02-14",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 7,
+      "endDate" : "2017-02-21",
+      "endLevel" : 100,
+      "endTime" : "03:00:00",
+      "etc" : 0,
+      "idx" : 149,
+      "name" : 27093,
+      "sort" : 12,
+      "startDate" : "2017-02-14",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
    }
 ]
