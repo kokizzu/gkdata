@@ -1788,7 +1788,7 @@
       "etc" : 0,
       "idx" : 138,
       "name" : 27030,
-      "sort" : 13,
+      "sort" : 919,
       "startDate" : "2017-02-07",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1801,7 +1801,7 @@
       "etc" : 0,
       "idx" : 139,
       "name" : 27067,
-      "sort" : 14,
+      "sort" : 920,
       "startDate" : "2017-02-07",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1814,7 +1814,7 @@
       "etc" : 0,
       "idx" : 140,
       "name" : 27231,
-      "sort" : 15,
+      "sort" : 921,
       "startDate" : "2017-02-07",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1827,7 +1827,7 @@
       "etc" : 0,
       "idx" : 141,
       "name" : 27232,
-      "sort" : 16,
+      "sort" : 922,
       "startDate" : "2017-02-07",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1840,7 +1840,7 @@
       "etc" : 0,
       "idx" : 142,
       "name" : 27233,
-      "sort" : 17,
+      "sort" : 923,
       "startDate" : "2017-02-07",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1853,7 +1853,7 @@
       "etc" : 0,
       "idx" : 143,
       "name" : 27234,
-      "sort" : 18,
+      "sort" : 924,
       "startDate" : "2017-02-07",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1866,7 +1866,7 @@
       "etc" : 0,
       "idx" : 144,
       "name" : 27088,
-      "sort" : 19,
+      "sort" : 925,
       "startDate" : "2017-02-07",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1879,7 +1879,7 @@
       "etc" : 0,
       "idx" : 145,
       "name" : 27073,
-      "sort" : 7,
+      "sort" : 926,
       "startDate" : "2017-02-14",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1892,7 +1892,7 @@
       "etc" : 0,
       "idx" : 146,
       "name" : 27072,
-      "sort" : 8,
+      "sort" : 927,
       "startDate" : "2017-02-14",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1905,7 +1905,7 @@
       "etc" : 0,
       "idx" : 147,
       "name" : 27095,
-      "sort" : 9,
+      "sort" : 928,
       "startDate" : "2017-02-14",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1918,7 +1918,7 @@
       "etc" : 0,
       "idx" : 148,
       "name" : 27096,
-      "sort" : 10,
+      "sort" : 929,
       "startDate" : "2017-02-14",
       "startLevel" : 1,
       "startTime" : "00:00:00"
@@ -1931,8 +1931,86 @@
       "etc" : 0,
       "idx" : 149,
       "name" : 27093,
-      "sort" : 12,
+      "sort" : 930,
       "startDate" : "2017-02-14",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 4,
+      "endDate" : "2017-02-28",
+      "endLevel" : 100,
+      "endTime" : "00:00:00",
+      "etc" : 0,
+      "idx" : 150,
+      "name" : 27067,
+      "sort" : 7,
+      "startDate" : "2017-02-21",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 5,
+      "endDate" : "2017-02-28",
+      "endLevel" : 100,
+      "endTime" : "00:00:00",
+      "etc" : 0,
+      "idx" : 151,
+      "name" : 27030,
+      "sort" : 8,
+      "startDate" : "2017-02-21",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 13,
+      "endDate" : "2017-02-28",
+      "endLevel" : 100,
+      "endTime" : "00:00:00",
+      "etc" : 0,
+      "idx" : 152,
+      "name" : 27260,
+      "sort" : 9,
+      "startDate" : "2017-02-21",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 13,
+      "endDate" : "2017-02-28",
+      "endLevel" : 100,
+      "endTime" : "00:00:00",
+      "etc" : 0,
+      "idx" : 153,
+      "name" : 27261,
+      "sort" : 10,
+      "startDate" : "2017-02-21",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 14,
+      "endDate" : "2017-02-28",
+      "endLevel" : 100,
+      "endTime" : "00:00:00",
+      "etc" : 0,
+      "idx" : 154,
+      "name" : 27235,
+      "sort" : 11,
+      "startDate" : "2017-02-21",
+      "startLevel" : 1,
+      "startTime" : "00:00:00"
+   },
+   {
+      "Type" : 7,
+      "endDate" : "2017-02-28",
+      "endLevel" : 100,
+      "endTime" : "03:00:00",
+      "etc" : 0,
+      "idx" : 155,
+      "name" : 27070,
+      "sort" : 12,
+      "startDate" : "2017-02-21",
       "startLevel" : 1,
       "startTime" : "00:00:00"
    }
