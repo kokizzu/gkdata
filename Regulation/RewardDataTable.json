@@ -530,8 +530,8 @@
    {
       "category" : 1,
       "index" : 48,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 26,
       "rewardType" : 2,
@@ -761,8 +761,8 @@
    {
       "category" : 1,
       "index" : 69,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 1,
       "rewardType" : 2,
@@ -992,8 +992,8 @@
    {
       "category" : 1,
       "index" : 90,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 26,
       "rewardType" : 2,
@@ -1311,8 +1311,8 @@
    {
       "category" : 1,
       "index" : 119,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 2,
       "rewardType" : 2,
@@ -1652,8 +1652,8 @@
    {
       "category" : 1,
       "index" : 150,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 14,
       "rewardType" : 2,
@@ -1993,8 +1993,8 @@
    {
       "category" : 1,
       "index" : 181,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 5,
       "rewardType" : 2,
@@ -2334,8 +2334,8 @@
    {
       "category" : 1,
       "index" : 212,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 14,
       "rewardType" : 2,
@@ -3104,8 +3104,8 @@
    {
       "category" : 1,
       "index" : 282,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 19,
       "rewardType" : 2,
@@ -3500,8 +3500,8 @@
    {
       "category" : 1,
       "index" : 318,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 2,
       "rewardType" : 2,
@@ -3896,8 +3896,8 @@
    {
       "category" : 1,
       "index" : 354,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 19,
       "rewardType" : 2,
@@ -4248,8 +4248,8 @@
    {
       "category" : 1,
       "index" : 386,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 1,
       "rewardType" : 2,
@@ -4589,8 +4589,8 @@
    {
       "category" : 1,
       "index" : 417,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 12,
       "rewardType" : 2,
@@ -4930,8 +4930,8 @@
    {
       "category" : 1,
       "index" : 448,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 26,
       "rewardType" : 2,
@@ -5271,8 +5271,8 @@
    {
       "category" : 1,
       "index" : 479,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 12,
       "rewardType" : 2,
@@ -6041,8 +6041,8 @@
    {
       "category" : 1,
       "index" : 549,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 7,
       "rewardType" : 2,
@@ -6437,8 +6437,8 @@
    {
       "category" : 1,
       "index" : 585,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 5,
       "rewardType" : 2,
@@ -6833,8 +6833,8 @@
    {
       "category" : 1,
       "index" : 621,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 7,
       "rewardType" : 2,
@@ -7273,8 +7273,8 @@
    {
       "category" : 1,
       "index" : 661,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 2,
       "rewardType" : 2,
@@ -7724,8 +7724,8 @@
    {
       "category" : 1,
       "index" : 702,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 10,
       "rewardType" : 2,
@@ -8175,8 +8175,8 @@
    {
       "category" : 1,
       "index" : 743,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 14,
       "rewardType" : 2,
@@ -8626,8 +8626,8 @@
    {
       "category" : 1,
       "index" : 784,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 10,
       "rewardType" : 2,
@@ -9319,8 +9319,8 @@
    {
       "category" : 1,
       "index" : 847,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 27,
       "rewardType" : 2,
@@ -9660,8 +9660,8 @@
    {
       "category" : 1,
       "index" : 878,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 19,
       "rewardType" : 2,
@@ -10001,8 +10001,8 @@
    {
       "category" : 1,
       "index" : 909,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 27,
       "rewardType" : 2,
@@ -10386,8 +10386,8 @@
    {
       "category" : 1,
       "index" : 944,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 5,
       "rewardType" : 2,
@@ -10782,8 +10782,8 @@
    {
       "category" : 1,
       "index" : 980,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 20,
       "rewardType" : 2,
@@ -11178,8 +11178,8 @@
    {
       "category" : 1,
       "index" : 1016,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 7,
       "rewardType" : 2,
@@ -11574,8 +11574,8 @@
    {
       "category" : 1,
       "index" : 1052,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 40,
       "rewardIdx" : 20,
       "rewardType" : 2,
@@ -12454,8 +12454,8 @@
    {
       "category" : 1,
       "index" : 1132,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 30,
       "rewardType" : 2,
@@ -12905,8 +12905,8 @@
    {
       "category" : 1,
       "index" : 1173,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 12,
       "rewardType" : 2,
@@ -13356,8 +13356,8 @@
    {
       "category" : 1,
       "index" : 1214,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 30,
       "rewardType" : 2,
@@ -13807,8 +13807,8 @@
    {
       "category" : 1,
       "index" : 1255,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 1,
       "rewardType" : 2,
@@ -14258,8 +14258,8 @@
    {
       "category" : 1,
       "index" : 1296,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 16,
       "rewardType" : 2,
@@ -14709,8 +14709,8 @@
    {
       "category" : 1,
       "index" : 1337,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 10,
       "rewardType" : 2,
@@ -15160,8 +15160,8 @@
    {
       "category" : 1,
       "index" : 1378,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 16,
       "rewardType" : 2,
@@ -15853,8 +15853,8 @@
    {
       "category" : 1,
       "index" : 1441,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 47,
       "rewardType" : 2,
@@ -16194,8 +16194,8 @@
    {
       "category" : 1,
       "index" : 1472,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 20,
       "rewardType" : 2,
@@ -16535,8 +16535,8 @@
    {
       "category" : 1,
       "index" : 1503,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 47,
       "rewardType" : 2,
@@ -16920,8 +16920,8 @@
    {
       "category" : 1,
       "index" : 1538,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 27,
       "rewardType" : 2,
@@ -17316,8 +17316,8 @@
    {
       "category" : 1,
       "index" : 1574,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 50,
       "rewardType" : 2,
@@ -17712,8 +17712,8 @@
    {
       "category" : 1,
       "index" : 1610,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 30,
       "rewardType" : 2,
@@ -18108,8 +18108,8 @@
    {
       "category" : 1,
       "index" : 1646,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 2,
+      "minCount" : 2,
       "rate" : 55,
       "rewardIdx" : 50,
       "rewardType" : 2,
@@ -49995,642 +49995,642 @@
       "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4545,
       "maxCount" : 1,
       "minCount" : 1,
-      "rate" : 40,
-      "rewardIdx" : 1,
+      "rate" : 100,
+      "rewardIdx" : 52,
       "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
+      "type" : 926,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4546,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 40,
-      "rewardIdx" : 5,
+      "maxCount" : 3,
+      "minCount" : 3,
+      "rate" : 100,
+      "rewardIdx" : 52,
       "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
+      "type" : 927,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4547,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 40,
-      "rewardIdx" : 17,
+      "maxCount" : 5,
+      "minCount" : 5,
+      "rate" : 100,
+      "rewardIdx" : 52,
       "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
+      "type" : 928,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4548,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 14,
+      "maxCount" : 3,
+      "minCount" : 3,
+      "rate" : 100,
+      "rewardIdx" : 52,
       "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
+      "type" : 929,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4549,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 19,
+      "maxCount" : 2,
+      "minCount" : 2,
+      "rate" : 100,
+      "rewardIdx" : 52,
       "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
+      "type" : 930,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4550,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 12,
+      "maxCount" : 2,
+      "minCount" : 2,
+      "rate" : 100,
+      "rewardIdx" : 52,
       "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
+      "type" : 931,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4551,
       "maxCount" : 1,
       "minCount" : 1,
-      "rate" : 20,
-      "rewardIdx" : 7,
+      "rate" : 100,
+      "rewardIdx" : 52,
       "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
+      "type" : 932,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4552,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 20,
-      "rewardIdx" : 10,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
-   },
-   {
-      "category" : 15,
-      "index" : 4553,
-      "maxCount" : 1,
-      "minCount" : 1,
+      "maxCount" : 10,
+      "minCount" : 10,
       "rate" : 100,
-      "rewardIdx" : 27,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
-   },
-   {
-      "category" : 15,
-      "index" : 4554,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 41,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
-   },
-   {
-      "category" : 15,
-      "index" : 4555,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 32,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
-   },
-   {
-      "category" : 15,
-      "index" : 4556,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 18,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
-   },
-   {
-      "category" : 15,
-      "index" : 4557,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 35,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 1
-   },
-   {
-      "category" : 15,
-      "index" : 4558,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 35,
-      "rewardIdx" : 1,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4559,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 35,
-      "rewardIdx" : 5,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4560,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 35,
-      "rewardIdx" : 17,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4561,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 35,
-      "rewardIdx" : 14,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4562,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 19,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4563,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 12,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4564,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 7,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4565,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 10,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4566,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 100,
-      "rewardIdx" : 27,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4567,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 41,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4568,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 32,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4569,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 18,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4570,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 35,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 2
-   },
-   {
-      "category" : 15,
-      "index" : 4571,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 1,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4572,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 5,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4573,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 17,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4574,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 14,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4575,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 19,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4576,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 12,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4577,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 7,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4578,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 30,
-      "rewardIdx" : 10,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4579,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 100,
-      "rewardIdx" : 27,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4580,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 41,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4581,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 32,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4582,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 18,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4583,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 5,
-      "rewardIdx" : 35,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 3
-   },
-   {
-      "category" : 15,
-      "index" : 4584,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 25,
-      "rewardIdx" : 1,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
-   },
-   {
-      "category" : 15,
-      "index" : 4585,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 25,
-      "rewardIdx" : 5,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
-   },
-   {
-      "category" : 15,
-      "index" : 4586,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 25,
-      "rewardIdx" : 17,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
-   },
-   {
-      "category" : 15,
-      "index" : 4587,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 25,
-      "rewardIdx" : 14,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
-   },
-   {
-      "category" : 15,
-      "index" : 4588,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 25,
-      "rewardIdx" : 19,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
-   },
-   {
-      "category" : 15,
-      "index" : 4589,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 25,
-      "rewardIdx" : 12,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
-   },
-   {
-      "category" : 15,
-      "index" : 4590,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 20,
-      "rewardIdx" : 7,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
-   },
-   {
-      "category" : 15,
-      "index" : 4591,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 20,
-      "rewardIdx" : 10,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
-   },
-   {
-      "category" : 15,
-      "index" : 4592,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 20,
-      "rewardIdx" : 27,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
-   },
-   {
-      "category" : 15,
-      "index" : 4593,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 20,
       "rewardIdx" : 16,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
+      "rewardType" : 1,
+      "type" : 926,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
+      "index" : 4553,
+      "maxCount" : 5000,
+      "minCount" : 5000,
+      "rate" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "type" : 927,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4554,
+      "maxCount" : 10000,
+      "minCount" : 10000,
+      "rate" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "type" : 928,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4555,
+      "maxCount" : 60,
+      "minCount" : 60,
+      "rate" : 100,
+      "rewardIdx" : 5,
+      "rewardType" : 1,
+      "type" : 929,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4556,
+      "maxCount" : 5000,
+      "minCount" : 5000,
+      "rate" : 100,
+      "rewardIdx" : 4,
+      "rewardType" : 1,
+      "type" : 930,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4557,
+      "maxCount" : 10,
+      "minCount" : 10,
+      "rate" : 100,
+      "rewardIdx" : 2,
+      "rewardType" : 1,
+      "type" : 931,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4558,
+      "maxCount" : 5,
+      "minCount" : 5,
+      "rate" : 100,
+      "rewardIdx" : 17,
+      "rewardType" : 1,
+      "type" : 932,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4559,
+      "maxCount" : 100,
+      "minCount" : 100,
+      "rate" : 100,
+      "rewardIdx" : 2,
+      "rewardType" : 1,
+      "type" : 933,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4560,
+      "maxCount" : 200,
+      "minCount" : 200,
+      "rate" : 100,
+      "rewardIdx" : 2,
+      "rewardType" : 1,
+      "type" : 934,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4561,
+      "maxCount" : 400,
+      "minCount" : 400,
+      "rate" : 100,
+      "rewardIdx" : 2,
+      "rewardType" : 1,
+      "type" : 935,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4562,
+      "maxCount" : 600,
+      "minCount" : 600,
+      "rate" : 100,
+      "rewardIdx" : 2,
+      "rewardType" : 1,
+      "type" : 936,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4563,
+      "maxCount" : 800,
+      "minCount" : 800,
+      "rate" : 100,
+      "rewardIdx" : 2,
+      "rewardType" : 1,
+      "type" : 937,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4564,
+      "maxCount" : 1200,
+      "minCount" : 1200,
+      "rate" : 100,
+      "rewardIdx" : 2,
+      "rewardType" : 1,
+      "type" : 938,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4565,
+      "maxCount" : 1600,
+      "minCount" : 1600,
+      "rate" : 100,
+      "rewardIdx" : 2,
+      "rewardType" : 1,
+      "type" : 939,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4566,
+      "maxCount" : 15,
+      "minCount" : 15,
+      "rate" : 100,
+      "rewardIdx" : 10101,
+      "rewardType" : 5,
+      "type" : 933,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4567,
+      "maxCount" : 20,
+      "minCount" : 20,
+      "rate" : 100,
+      "rewardIdx" : 10101,
+      "rewardType" : 5,
+      "type" : 934,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4568,
+      "maxCount" : 50,
+      "minCount" : 50,
+      "rate" : 100,
+      "rewardIdx" : 10101,
+      "rewardType" : 5,
+      "type" : 935,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4569,
+      "maxCount" : 80,
+      "minCount" : 80,
+      "rate" : 100,
+      "rewardIdx" : 10101,
+      "rewardType" : 5,
+      "type" : 936,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4570,
+      "maxCount" : 150,
+      "minCount" : 150,
+      "rate" : 100,
+      "rewardIdx" : 10101,
+      "rewardType" : 5,
+      "type" : 937,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4571,
+      "maxCount" : 800,
+      "minCount" : 800,
+      "rate" : 100,
+      "rewardIdx" : 10101,
+      "rewardType" : 5,
+      "type" : 938,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4572,
+      "maxCount" : 1000,
+      "minCount" : 1000,
+      "rate" : 100,
+      "rewardIdx" : 10101,
+      "rewardType" : 5,
+      "type" : 939,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4573,
+      "maxCount" : 10,
+      "minCount" : 10,
+      "rate" : 100,
+      "rewardIdx" : 11202,
+      "rewardType" : 5,
+      "type" : 933,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4574,
+      "maxCount" : 26,
+      "minCount" : 26,
+      "rate" : 100,
+      "rewardIdx" : 11002,
+      "rewardType" : 5,
+      "type" : 933,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4575,
+      "maxCount" : 26,
+      "minCount" : 26,
+      "rate" : 100,
+      "rewardIdx" : 11102,
+      "rewardType" : 5,
+      "type" : 933,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4576,
+      "maxCount" : 81,
+      "minCount" : 81,
+      "rate" : 100,
+      "rewardIdx" : 11203,
+      "rewardType" : 5,
+      "type" : 934,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4577,
+      "maxCount" : 221,
+      "minCount" : 221,
+      "rate" : 100,
+      "rewardIdx" : 11003,
+      "rewardType" : 5,
+      "type" : 934,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4578,
+      "maxCount" : 221,
+      "minCount" : 221,
+      "rate" : 100,
+      "rewardIdx" : 11103,
+      "rewardType" : 5,
+      "type" : 934,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4579,
+      "maxCount" : 80,
+      "minCount" : 80,
+      "rate" : 100,
+      "rewardIdx" : 53,
+      "rewardType" : 2,
+      "type" : 935,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4580,
+      "maxCount" : 250,
+      "minCount" : 250,
+      "rate" : 100,
+      "rewardIdx" : 10203,
+      "rewardType" : 5,
+      "type" : 935,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4581,
+      "maxCount" : 110,
+      "minCount" : 110,
+      "rate" : 100,
+      "rewardIdx" : 10703,
+      "rewardType" : 5,
+      "type" : 935,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4582,
+      "maxCount" : 600,
+      "minCount" : 600,
+      "rate" : 100,
+      "rewardIdx" : 11204,
+      "rewardType" : 5,
+      "type" : 936,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4583,
+      "maxCount" : 1600,
+      "minCount" : 1600,
+      "rate" : 100,
+      "rewardIdx" : 11004,
+      "rewardType" : 5,
+      "type" : 936,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4584,
+      "maxCount" : 1600,
+      "minCount" : 1600,
+      "rate" : 100,
+      "rewardIdx" : 11104,
+      "rewardType" : 5,
+      "type" : 936,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4585,
+      "maxCount" : 100,
+      "minCount" : 100,
+      "rate" : 100,
+      "rewardIdx" : 53,
+      "rewardType" : 2,
+      "type" : 937,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4586,
+      "maxCount" : 580,
+      "minCount" : 580,
+      "rate" : 100,
+      "rewardIdx" : 10204,
+      "rewardType" : 5,
+      "type" : 938,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4587,
+      "maxCount" : 150,
+      "minCount" : 150,
+      "rate" : 100,
+      "rewardIdx" : 10704,
+      "rewardType" : 5,
+      "type" : 938,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4588,
+      "maxCount" : 150,
+      "minCount" : 150,
+      "rate" : 100,
+      "rewardIdx" : 53,
+      "rewardType" : 2,
+      "type" : 939,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4589,
+      "maxCount" : 10,
+      "minCount" : 10,
+      "rate" : 100,
+      "rewardIdx" : 16,
+      "rewardType" : 1,
+      "type" : 940,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4590,
+      "maxCount" : 5,
+      "minCount" : 5,
+      "rate" : 100,
+      "rewardIdx" : 17,
+      "rewardType" : 1,
+      "type" : 941,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4591,
+      "maxCount" : 2,
+      "minCount" : 2,
+      "rate" : 100,
+      "rewardIdx" : 18,
+      "rewardType" : 1,
+      "type" : 942,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4592,
+      "maxCount" : 100,
+      "minCount" : 100,
+      "rate" : 100,
+      "rewardIdx" : 16,
+      "rewardType" : 1,
+      "type" : 943,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
+      "index" : 4593,
+      "maxCount" : 50,
+      "minCount" : 50,
+      "rate" : 100,
+      "rewardIdx" : 17,
+      "rewardType" : 1,
+      "type" : 944,
+      "typeIndex" : 0
+   },
+   {
+      "category" : 14,
       "index" : 4594,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 20,
-      "rewardIdx" : 30,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
+      "maxCount" : 20,
+      "minCount" : 20,
+      "rate" : 100,
+      "rewardIdx" : 18,
+      "rewardType" : 1,
+      "type" : 945,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4595,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 10,
-      "rewardIdx" : 41,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
+      "maxCount" : 20,
+      "minCount" : 20,
+      "rate" : 100,
+      "rewardIdx" : 16,
+      "rewardType" : 1,
+      "type" : 946,
+      "typeIndex" : 0
    },
    {
-      "category" : 15,
+      "category" : 14,
       "index" : 4596,
-      "maxCount" : 1,
-      "minCount" : 1,
-      "rate" : 10,
-      "rewardIdx" : 32,
-      "rewardType" : 2,
-      "type" : 1,
-      "typeIndex" : 4
+      "maxCount" : 30,
+      "minCount" : 30,
+      "rate" : 100,
+      "rewardIdx" : 17,
+      "rewardType" : 1,
+      "type" : 947,
+      "typeIndex" : 0
    },
    {
       "category" : 15,
       "index" : 4597,
       "maxCount" : 1,
       "minCount" : 1,
-      "rate" : 10,
-      "rewardIdx" : 18,
+      "rate" : 40,
+      "rewardIdx" : 1,
       "rewardType" : 2,
       "type" : 1,
-      "typeIndex" : 4
+      "typeIndex" : 1
    },
    {
       "category" : 15,
       "index" : 4598,
       "maxCount" : 1,
       "minCount" : 1,
-      "rate" : 10,
-      "rewardIdx" : 11,
+      "rate" : 40,
+      "rewardIdx" : 5,
       "rewardType" : 2,
       "type" : 1,
-      "typeIndex" : 4
+      "typeIndex" : 1
    },
    {
       "category" : 15,
       "index" : 4599,
       "maxCount" : 1,
       "minCount" : 1,
-      "rate" : 10,
-      "rewardIdx" : 13,
+      "rate" : 40,
+      "rewardIdx" : 17,
       "rewardType" : 2,
       "type" : 1,
-      "typeIndex" : 4
+      "typeIndex" : 1
    },
    {
       "category" : 15,
       "index" : 4600,
       "maxCount" : 1,
       "minCount" : 1,
-      "rate" : 10,
-      "rewardIdx" : 37,
+      "rate" : 30,
+      "rewardIdx" : 14,
       "rewardType" : 2,
       "type" : 1,
-      "typeIndex" : 4
+      "typeIndex" : 1
    },
    {
       "category" : 15,
       "index" : 4601,
       "maxCount" : 1,
       "minCount" : 1,
-      "rate" : 10,
-      "rewardIdx" : 40,
+      "rate" : 30,
+      "rewardIdx" : 19,
       "rewardType" : 2,
       "type" : 1,
-      "typeIndex" : 4
+      "typeIndex" : 1
    },
    {
       "category" : 15,
       "index" : 4602,
       "maxCount" : 1,
       "minCount" : 1,
-      "rate" : 100,
-      "rewardIdx" : 35,
+      "rate" : 30,
+      "rewardIdx" : 12,
       "rewardType" : 2,
       "type" : 1,
-      "typeIndex" : 4
+      "typeIndex" : 1
    },
    {
       "category" : 15,
@@ -50638,10 +50638,10 @@
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
-      "rewardIdx" : 1,
+      "rewardIdx" : 7,
       "rewardType" : 2,
       "type" : 1,
-      "typeIndex" : 5
+      "typeIndex" : 1
    },
    {
       "category" : 15,
@@ -50649,6 +50649,578 @@
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
+      "rewardIdx" : 10,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 1
+   },
+   {
+      "category" : 15,
+      "index" : 4605,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 100,
+      "rewardIdx" : 27,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 1
+   },
+   {
+      "category" : 15,
+      "index" : 4606,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 41,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 1
+   },
+   {
+      "category" : 15,
+      "index" : 4607,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 32,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 1
+   },
+   {
+      "category" : 15,
+      "index" : 4608,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 18,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 1
+   },
+   {
+      "category" : 15,
+      "index" : 4609,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 35,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 1
+   },
+   {
+      "category" : 15,
+      "index" : 4610,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 35,
+      "rewardIdx" : 1,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4611,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 35,
+      "rewardIdx" : 5,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4612,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 35,
+      "rewardIdx" : 17,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4613,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 35,
+      "rewardIdx" : 14,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4614,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 19,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4615,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 12,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4616,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 7,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4617,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 10,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4618,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 100,
+      "rewardIdx" : 27,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4619,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 41,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4620,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 32,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4621,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 18,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4622,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 35,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 2
+   },
+   {
+      "category" : 15,
+      "index" : 4623,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 1,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4624,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 5,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4625,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 17,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4626,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 14,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4627,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 19,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4628,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 12,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4629,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 7,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4630,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 30,
+      "rewardIdx" : 10,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4631,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 100,
+      "rewardIdx" : 27,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4632,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 41,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4633,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 32,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4634,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 18,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4635,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 5,
+      "rewardIdx" : 35,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 3
+   },
+   {
+      "category" : 15,
+      "index" : 4636,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 25,
+      "rewardIdx" : 1,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4637,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 25,
+      "rewardIdx" : 5,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4638,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 25,
+      "rewardIdx" : 17,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4639,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 25,
+      "rewardIdx" : 14,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4640,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 25,
+      "rewardIdx" : 19,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4641,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 25,
+      "rewardIdx" : 12,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4642,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 20,
+      "rewardIdx" : 7,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4643,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 20,
+      "rewardIdx" : 10,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4644,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 20,
+      "rewardIdx" : 27,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4645,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 20,
+      "rewardIdx" : 16,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4646,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 20,
+      "rewardIdx" : 30,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4647,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 10,
+      "rewardIdx" : 41,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4648,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 10,
+      "rewardIdx" : 32,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4649,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 10,
+      "rewardIdx" : 18,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4650,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 10,
+      "rewardIdx" : 11,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4651,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 10,
+      "rewardIdx" : 13,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4652,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 10,
+      "rewardIdx" : 37,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4653,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 10,
+      "rewardIdx" : 40,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4654,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 100,
+      "rewardIdx" : 35,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 4
+   },
+   {
+      "category" : 15,
+      "index" : 4655,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 20,
+      "rewardIdx" : 1,
+      "rewardType" : 2,
+      "type" : 1,
+      "typeIndex" : 5
+   },
+   {
+      "category" : 15,
+      "index" : 4656,
+      "maxCount" : 1,
+      "minCount" : 1,
+      "rate" : 20,
       "rewardIdx" : 5,
       "rewardType" : 2,
       "type" : 1,
@@ -50656,7 +51228,7 @@
    },
    {
       "category" : 15,
-      "index" : 4605,
+      "index" : 4657,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50667,7 +51239,7 @@
    },
    {
       "category" : 15,
-      "index" : 4606,
+      "index" : 4658,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50678,7 +51250,7 @@
    },
    {
       "category" : 15,
-      "index" : 4607,
+      "index" : 4659,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50689,7 +51261,7 @@
    },
    {
       "category" : 15,
-      "index" : 4608,
+      "index" : 4660,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50700,7 +51272,7 @@
    },
    {
       "category" : 15,
-      "index" : 4609,
+      "index" : 4661,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50711,7 +51283,7 @@
    },
    {
       "category" : 15,
-      "index" : 4610,
+      "index" : 4662,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50722,7 +51294,7 @@
    },
    {
       "category" : 15,
-      "index" : 4611,
+      "index" : 4663,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50733,7 +51305,7 @@
    },
    {
       "category" : 15,
-      "index" : 4612,
+      "index" : 4664,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50744,7 +51316,7 @@
    },
    {
       "category" : 15,
-      "index" : 4613,
+      "index" : 4665,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50755,7 +51327,7 @@
    },
    {
       "category" : 15,
-      "index" : 4614,
+      "index" : 4666,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50766,7 +51338,7 @@
    },
    {
       "category" : 15,
-      "index" : 4615,
+      "index" : 4667,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50777,7 +51349,7 @@
    },
    {
       "category" : 15,
-      "index" : 4616,
+      "index" : 4668,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50788,7 +51360,7 @@
    },
    {
       "category" : 15,
-      "index" : 4617,
+      "index" : 4669,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50799,7 +51371,7 @@
    },
    {
       "category" : 15,
-      "index" : 4618,
+      "index" : 4670,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50810,7 +51382,7 @@
    },
    {
       "category" : 15,
-      "index" : 4619,
+      "index" : 4671,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50821,7 +51393,7 @@
    },
    {
       "category" : 15,
-      "index" : 4620,
+      "index" : 4672,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50832,7 +51404,7 @@
    },
    {
       "category" : 15,
-      "index" : 4621,
+      "index" : 4673,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -50843,7 +51415,7 @@
    },
    {
       "category" : 15,
-      "index" : 4622,
+      "index" : 4674,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50854,7 +51426,7 @@
    },
    {
       "category" : 15,
-      "index" : 4623,
+      "index" : 4675,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50865,7 +51437,7 @@
    },
    {
       "category" : 15,
-      "index" : 4624,
+      "index" : 4676,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50876,7 +51448,7 @@
    },
    {
       "category" : 15,
-      "index" : 4625,
+      "index" : 4677,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50887,7 +51459,7 @@
    },
    {
       "category" : 15,
-      "index" : 4626,
+      "index" : 4678,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50898,7 +51470,7 @@
    },
    {
       "category" : 15,
-      "index" : 4627,
+      "index" : 4679,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50909,7 +51481,7 @@
    },
    {
       "category" : 15,
-      "index" : 4628,
+      "index" : 4680,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50920,7 +51492,7 @@
    },
    {
       "category" : 15,
-      "index" : 4629,
+      "index" : 4681,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50931,7 +51503,7 @@
    },
    {
       "category" : 15,
-      "index" : 4630,
+      "index" : 4682,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50942,7 +51514,7 @@
    },
    {
       "category" : 15,
-      "index" : 4631,
+      "index" : 4683,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50953,7 +51525,7 @@
    },
    {
       "category" : 15,
-      "index" : 4632,
+      "index" : 4684,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50964,7 +51536,7 @@
    },
    {
       "category" : 15,
-      "index" : 4633,
+      "index" : 4685,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50975,7 +51547,7 @@
    },
    {
       "category" : 15,
-      "index" : 4634,
+      "index" : 4686,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50986,7 +51558,7 @@
    },
    {
       "category" : 15,
-      "index" : 4635,
+      "index" : 4687,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -50997,7 +51569,7 @@
    },
    {
       "category" : 15,
-      "index" : 4636,
+      "index" : 4688,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51008,7 +51580,7 @@
    },
    {
       "category" : 15,
-      "index" : 4637,
+      "index" : 4689,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51019,7 +51591,7 @@
    },
    {
       "category" : 15,
-      "index" : 4638,
+      "index" : 4690,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51030,7 +51602,7 @@
    },
    {
       "category" : 15,
-      "index" : 4639,
+      "index" : 4691,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51041,7 +51613,7 @@
    },
    {
       "category" : 15,
-      "index" : 4640,
+      "index" : 4692,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51052,7 +51624,7 @@
    },
    {
       "category" : 15,
-      "index" : 4641,
+      "index" : 4693,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 50,
@@ -51063,7 +51635,7 @@
    },
    {
       "category" : 15,
-      "index" : 4642,
+      "index" : 4694,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 40,
@@ -51074,7 +51646,7 @@
    },
    {
       "category" : 15,
-      "index" : 4643,
+      "index" : 4695,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 10,
@@ -51085,7 +51657,7 @@
    },
    {
       "category" : 15,
-      "index" : 4644,
+      "index" : 4696,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51096,7 +51668,7 @@
    },
    {
       "category" : 15,
-      "index" : 4645,
+      "index" : 4697,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 5,
@@ -51107,7 +51679,7 @@
    },
    {
       "category" : 15,
-      "index" : 4646,
+      "index" : 4698,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 5,
@@ -51118,7 +51690,7 @@
    },
    {
       "category" : 15,
-      "index" : 4647,
+      "index" : 4699,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 45,
@@ -51129,7 +51701,7 @@
    },
    {
       "category" : 15,
-      "index" : 4648,
+      "index" : 4700,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 45,
@@ -51140,7 +51712,7 @@
    },
    {
       "category" : 15,
-      "index" : 4649,
+      "index" : 4701,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 10,
@@ -51151,7 +51723,7 @@
    },
    {
       "category" : 15,
-      "index" : 4650,
+      "index" : 4702,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 10,
@@ -51162,7 +51734,7 @@
    },
    {
       "category" : 15,
-      "index" : 4651,
+      "index" : 4703,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51173,7 +51745,7 @@
    },
    {
       "category" : 15,
-      "index" : 4652,
+      "index" : 4704,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 5,
@@ -51184,7 +51756,7 @@
    },
    {
       "category" : 15,
-      "index" : 4653,
+      "index" : 4705,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 35,
@@ -51195,7 +51767,7 @@
    },
    {
       "category" : 15,
-      "index" : 4654,
+      "index" : 4706,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 40,
@@ -51206,7 +51778,7 @@
    },
    {
       "category" : 15,
-      "index" : 4655,
+      "index" : 4707,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 40,
@@ -51217,7 +51789,7 @@
    },
    {
       "category" : 15,
-      "index" : 4656,
+      "index" : 4708,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 15,
@@ -51228,7 +51800,7 @@
    },
    {
       "category" : 15,
-      "index" : 4657,
+      "index" : 4709,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 15,
@@ -51239,7 +51811,7 @@
    },
    {
       "category" : 15,
-      "index" : 4658,
+      "index" : 4710,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51250,7 +51822,7 @@
    },
    {
       "category" : 15,
-      "index" : 4659,
+      "index" : 4711,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 30,
@@ -51261,7 +51833,7 @@
    },
    {
       "category" : 15,
-      "index" : 4660,
+      "index" : 4712,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 30,
@@ -51272,7 +51844,7 @@
    },
    {
       "category" : 15,
-      "index" : 4661,
+      "index" : 4713,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 25,
@@ -51283,7 +51855,7 @@
    },
    {
       "category" : 15,
-      "index" : 4662,
+      "index" : 4714,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 25,
@@ -51294,7 +51866,7 @@
    },
    {
       "category" : 15,
-      "index" : 4663,
+      "index" : 4715,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 25,
@@ -51305,7 +51877,7 @@
    },
    {
       "category" : 15,
-      "index" : 4664,
+      "index" : 4716,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 10,
@@ -51316,7 +51888,7 @@
    },
    {
       "category" : 15,
-      "index" : 4665,
+      "index" : 4717,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 10,
@@ -51327,7 +51899,7 @@
    },
    {
       "category" : 15,
-      "index" : 4666,
+      "index" : 4718,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51338,7 +51910,7 @@
    },
    {
       "category" : 15,
-      "index" : 4667,
+      "index" : 4719,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 25,
@@ -51349,7 +51921,7 @@
    },
    {
       "category" : 15,
-      "index" : 4668,
+      "index" : 4720,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 25,
@@ -51360,7 +51932,7 @@
    },
    {
       "category" : 15,
-      "index" : 4669,
+      "index" : 4721,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51371,7 +51943,7 @@
    },
    {
       "category" : 15,
-      "index" : 4670,
+      "index" : 4722,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51382,7 +51954,7 @@
    },
    {
       "category" : 15,
-      "index" : 4671,
+      "index" : 4723,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51393,7 +51965,7 @@
    },
    {
       "category" : 15,
-      "index" : 4672,
+      "index" : 4724,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 10,
@@ -51404,7 +51976,7 @@
    },
    {
       "category" : 15,
-      "index" : 4673,
+      "index" : 4725,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 10,
@@ -51415,7 +51987,7 @@
    },
    {
       "category" : 15,
-      "index" : 4674,
+      "index" : 4726,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51426,7 +51998,7 @@
    },
    {
       "category" : 15,
-      "index" : 4675,
+      "index" : 4727,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 25,
@@ -51437,7 +52009,7 @@
    },
    {
       "category" : 15,
-      "index" : 4676,
+      "index" : 4728,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 25,
@@ -51448,7 +52020,7 @@
    },
    {
       "category" : 15,
-      "index" : 4677,
+      "index" : 4729,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51459,7 +52031,7 @@
    },
    {
       "category" : 15,
-      "index" : 4678,
+      "index" : 4730,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51470,7 +52042,7 @@
    },
    {
       "category" : 15,
-      "index" : 4679,
+      "index" : 4731,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 20,
@@ -51481,7 +52053,7 @@
    },
    {
       "category" : 15,
-      "index" : 4680,
+      "index" : 4732,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 10,
@@ -51492,7 +52064,7 @@
    },
    {
       "category" : 15,
-      "index" : 4681,
+      "index" : 4733,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 10,
@@ -51503,7 +52075,7 @@
    },
    {
       "category" : 15,
-      "index" : 4682,
+      "index" : 4734,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51514,7 +52086,7 @@
    },
    {
       "category" : 15,
-      "index" : 4683,
+      "index" : 4735,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51525,7 +52097,7 @@
    },
    {
       "category" : 15,
-      "index" : 4684,
+      "index" : 4736,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 5,
@@ -51536,7 +52108,7 @@
    },
    {
       "category" : 15,
-      "index" : 4685,
+      "index" : 4737,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 5,
@@ -51547,7 +52119,7 @@
    },
    {
       "category" : 15,
-      "index" : 4686,
+      "index" : 4738,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51558,7 +52130,7 @@
    },
    {
       "category" : 15,
-      "index" : 4687,
+      "index" : 4739,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 5,
@@ -51569,7 +52141,7 @@
    },
    {
       "category" : 15,
-      "index" : 4688,
+      "index" : 4740,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 5,
@@ -51580,7 +52152,7 @@
    },
    {
       "category" : 15,
-      "index" : 4689,
+      "index" : 4741,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 80,
@@ -51591,7 +52163,7 @@
    },
    {
       "category" : 15,
-      "index" : 4690,
+      "index" : 4742,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 50,
@@ -51602,7 +52174,7 @@
    },
    {
       "category" : 15,
-      "index" : 4691,
+      "index" : 4743,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51613,7 +52185,7 @@
    },
    {
       "category" : 15,
-      "index" : 4692,
+      "index" : 4744,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 60,
@@ -51624,7 +52196,7 @@
    },
    {
       "category" : 15,
-      "index" : 4693,
+      "index" : 4745,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 40,
@@ -51635,7 +52207,7 @@
    },
    {
       "category" : 15,
-      "index" : 4694,
+      "index" : 4746,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51646,7 +52218,7 @@
    },
    {
       "category" : 15,
-      "index" : 4695,
+      "index" : 4747,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 40,
@@ -51657,7 +52229,7 @@
    },
    {
       "category" : 15,
-      "index" : 4696,
+      "index" : 4748,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 40,
@@ -51668,7 +52240,7 @@
    },
    {
       "category" : 15,
-      "index" : 4697,
+      "index" : 4749,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51679,7 +52251,7 @@
    },
    {
       "category" : 15,
-      "index" : 4698,
+      "index" : 4750,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 40,
@@ -51690,7 +52262,7 @@
    },
    {
       "category" : 15,
-      "index" : 4699,
+      "index" : 4751,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 40,
@@ -51701,7 +52273,7 @@
    },
    {
       "category" : 15,
-      "index" : 4700,
+      "index" : 4752,
       "maxCount" : 1,
       "minCount" : 1,
       "rate" : 100,
@@ -51712,7 +52284,7 @@
    },
    {
       "category" : 16,
-      "index" : 4701,
+      "index" : 4753,
       "maxCount" : 10000,
       "minCount" : 6000,
       "rate" : 100,
@@ -51723,7 +52295,7 @@
    },
    {
       "category" : 16,
-      "index" : 4702,
+      "index" : 4754,
       "maxCount" : 20000,
       "minCount" : 10000,
       "rate" : 100,
@@ -51734,7 +52306,7 @@
    },
    {
       "category" : 16,
-      "index" : 4703,
+      "index" : 4755,
       "maxCount" : 30000,
       "minCount" : 20000,
       "rate" : 100,
@@ -51745,7 +52317,7 @@
    },
    {
       "category" : 16,
-      "index" : 4704,
+      "index" : 4756,
       "maxCount" : 40000,
       "minCount" : 30000,
       "rate" : 100,
@@ -51756,7 +52328,7 @@
    },
    {
       "category" : 16,
-      "index" : 4705,
+      "index" : 4757,
       "maxCount" : 50000,
       "minCount" : 40000,
       "rate" : 100,
@@ -51767,7 +52339,7 @@
    },
    {
       "category" : 16,
-      "index" : 4706,
+      "index" : 4758,
       "maxCount" : 60000,
       "minCount" : 50000,
       "rate" : 100,
@@ -51778,7 +52350,7 @@
    },
    {
       "category" : 16,
-      "index" : 4707,
+      "index" : 4759,
       "maxCount" : 70000,
       "minCount" : 60000,
       "rate" : 100,
@@ -51789,7 +52361,7 @@
    },
    {
       "category" : 16,
-      "index" : 4708,
+      "index" : 4760,
       "maxCount" : 80000,
       "minCount" : 70000,
       "rate" : 100,
@@ -51800,7 +52372,7 @@
    },
    {
       "category" : 16,
-      "index" : 4709,
+      "index" : 4761,
       "maxCount" : 90000,
       "minCount" : 80000,
       "rate" : 100,
@@ -51811,7 +52383,7 @@
    },
    {
       "category" : 16,
-      "index" : 4710,
+      "index" : 4762,
       "maxCount" : 100000,
       "minCount" : 90000,
       "rate" : 100,
@@ -51822,7 +52394,7 @@
    },
    {
       "category" : 16,
-      "index" : 4711,
+      "index" : 4763,
       "maxCount" : 110000,
       "minCount" : 100000,
       "rate" : 100,
@@ -51833,7 +52405,7 @@
    },
    {
       "category" : 16,
-      "index" : 4712,
+      "index" : 4764,
       "maxCount" : 120000,
       "minCount" : 110000,
       "rate" : 100,
@@ -51844,7 +52416,7 @@
    },
    {
       "category" : 16,
-      "index" : 4713,
+      "index" : 4765,
       "maxCount" : 130000,
       "minCount" : 120000,
       "rate" : 100,
@@ -51855,7 +52427,7 @@
    },
    {
       "category" : 16,
-      "index" : 4714,
+      "index" : 4766,
       "maxCount" : 140000,
       "minCount" : 130000,
       "rate" : 100,
@@ -51866,7 +52438,7 @@
    },
    {
       "category" : 16,
-      "index" : 4715,
+      "index" : 4767,
       "maxCount" : 150000,
       "minCount" : 140000,
       "rate" : 100,
@@ -51877,7 +52449,7 @@
    },
    {
       "category" : 16,
-      "index" : 4716,
+      "index" : 4768,
       "maxCount" : 160000,
       "minCount" : 150000,
       "rate" : 100,
@@ -51888,7 +52460,7 @@
    },
    {
       "category" : 16,
-      "index" : 4717,
+      "index" : 4769,
       "maxCount" : 170000,
       "minCount" : 160000,
       "rate" : 100,
@@ -51899,7 +52471,7 @@
    },
    {
       "category" : 16,
-      "index" : 4718,
+      "index" : 4770,
       "maxCount" : 180000,
       "minCount" : 170000,
       "rate" : 100,
@@ -51910,7 +52482,7 @@
    },
    {
       "category" : 16,
-      "index" : 4719,
+      "index" : 4771,
       "maxCount" : 190000,
       "minCount" : 180000,
       "rate" : 100,
@@ -51921,7 +52493,7 @@
    },
    {
       "category" : 16,
-      "index" : 4720,
+      "index" : 4772,
       "maxCount" : 200000,
       "minCount" : 190000,
       "rate" : 100,
@@ -51932,7 +52504,7 @@
    },
    {
       "category" : 16,
-      "index" : 4721,
+      "index" : 4773,
       "maxCount" : 210000,
       "minCount" : 200000,
       "rate" : 100,
@@ -51943,7 +52515,7 @@
    },
    {
       "category" : 16,
-      "index" : 4722,
+      "index" : 4774,
       "maxCount" : 220000,
       "minCount" : 210000,
       "rate" : 100,
@@ -51954,7 +52526,7 @@
    },
    {
       "category" : 16,
-      "index" : 4723,
+      "index" : 4775,
       "maxCount" : 230000,
       "minCount" : 220000,
       "rate" : 100,
@@ -51965,7 +52537,7 @@
    },
    {
       "category" : 16,
-      "index" : 4724,
+      "index" : 4776,
       "maxCount" : 240000,
       "minCount" : 230000,
       "rate" : 100,
@@ -51976,7 +52548,7 @@
    },
    {
       "category" : 16,
-      "index" : 4725,
+      "index" : 4777,
       "maxCount" : 250000,
       "minCount" : 240000,
       "rate" : 100,
@@ -51987,7 +52559,7 @@
    },
    {
       "category" : 16,
-      "index" : 4726,
+      "index" : 4778,
       "maxCount" : 260000,
       "minCount" : 250000,
       "rate" : 100,
@@ -51998,7 +52570,7 @@
    },
    {
       "category" : 16,
-      "index" : 4727,
+      "index" : 4779,
       "maxCount" : 270000,
       "minCount" : 260000,
       "rate" : 100,
@@ -52009,7 +52581,7 @@
    },
    {
       "category" : 16,
-      "index" : 4728,
+      "index" : 4780,
       "maxCount" : 280000,
       "minCount" : 270000,
       "rate" : 100,
@@ -52020,7 +52592,7 @@
    },
    {
       "category" : 16,
-      "index" : 4729,
+      "index" : 4781,
       "maxCount" : 290000,
       "minCount" : 280000,
       "rate" : 100,
@@ -52031,7 +52603,7 @@
    },
    {
       "category" : 16,
-      "index" : 4730,
+      "index" : 4782,
       "maxCount" : 300000,
       "minCount" : 290000,
       "rate" : 100,
@@ -52042,7 +52614,7 @@
    },
    {
       "category" : 16,
-      "index" : 4731,
+      "index" : 4783,
       "maxCount" : 800,
       "minCount" : 500,
       "rate" : 100,
@@ -52053,7 +52625,7 @@
    },
    {
       "category" : 16,
-      "index" : 4732,
+      "index" : 4784,
       "maxCount" : 1600,
       "minCount" : 800,
       "rate" : 100,
@@ -52064,7 +52636,7 @@
    },
    {
       "category" : 16,
-      "index" : 4733,
+      "index" : 4785,
       "maxCount" : 2400,
       "minCount" : 1600,
       "rate" : 100,
@@ -52075,7 +52647,7 @@
    },
    {
       "category" : 16,
-      "index" : 4734,
+      "index" : 4786,
       "maxCount" : 3200,
       "minCount" : 2400,
       "rate" : 100,
@@ -52086,7 +52658,7 @@
    },
    {
       "category" : 16,
-      "index" : 4735,
+      "index" : 4787,
       "maxCount" : 4000,
       "minCount" : 3200,
       "rate" : 100,
@@ -52097,7 +52669,7 @@
    },
    {
       "category" : 16,
-      "index" : 4736,
+      "index" : 4788,
       "maxCount" : 4800,
       "minCount" : 4000,
       "rate" : 100,
@@ -52108,7 +52680,7 @@
    },
    {
       "category" : 16,
-      "index" : 4737,
+      "index" : 4789,
       "maxCount" : 5600,
       "minCount" : 4800,
       "rate" : 100,
@@ -52119,7 +52691,7 @@
    },
    {
       "category" : 16,
-      "index" : 4738,
+      "index" : 4790,
       "maxCount" : 6400,
       "minCount" : 5600,
       "rate" : 100,
@@ -52130,7 +52702,7 @@
    },
    {
       "category" : 16,
-      "index" : 4739,
+      "index" : 4791,
       "maxCount" : 7200,
       "minCount" : 6400,
       "rate" : 100,
@@ -52141,7 +52713,7 @@
    },
    {
       "category" : 16,
-      "index" : 4740,
+      "index" : 4792,
       "maxCount" : 8000,
       "minCount" : 7200,
       "rate" : 100,
@@ -52152,7 +52724,7 @@
    },
    {
       "category" : 16,
-      "index" : 4741,
+      "index" : 4793,
       "maxCount" : 8800,
       "minCount" : 8000,
       "rate" : 100,
@@ -52163,7 +52735,7 @@
    },
    {
       "category" : 16,
-      "index" : 4742,
+      "index" : 4794,
       "maxCount" : 9600,
       "minCount" : 8800,
       "rate" : 100,
@@ -52174,7 +52746,7 @@
    },
    {
       "category" : 16,
-      "index" : 4743,
+      "index" : 4795,
       "maxCount" : 10400,
       "minCount" : 9600,
       "rate" : 100,
@@ -52185,7 +52757,7 @@
    },
    {
       "category" : 16,
-      "index" : 4744,
+      "index" : 4796,
       "maxCount" : 11200,
       "minCount" : 10400,
       "rate" : 100,
@@ -52196,7 +52768,7 @@
    },
    {
       "category" : 16,
-      "index" : 4745,
+      "index" : 4797,
       "maxCount" : 12000,
       "minCount" : 11200,
       "rate" : 100,
@@ -52207,7 +52779,7 @@
    },
    {
       "category" : 16,
-      "index" : 4746,
+      "index" : 4798,
       "maxCount" : 12800,
       "minCount" : 12000,
       "rate" : 100,
@@ -52218,7 +52790,7 @@
    },
    {
       "category" : 16,
-      "index" : 4747,
+      "index" : 4799,
       "maxCount" : 13600,
       "minCount" : 12800,
       "rate" : 100,
@@ -52229,7 +52801,7 @@
    },
    {
       "category" : 16,
-      "index" : 4748,
+      "index" : 4800,
       "maxCount" : 14400,
       "minCount" : 13600,
       "rate" : 100,
@@ -52240,7 +52812,7 @@
    },
    {
       "category" : 16,
-      "index" : 4749,
+      "index" : 4801,
       "maxCount" : 15200,
       "minCount" : 14400,
       "rate" : 100,
@@ -52251,7 +52823,7 @@
    },
    {
       "category" : 16,
-      "index" : 4750,
+      "index" : 4802,
       "maxCount" : 16000,
       "minCount" : 15200,
       "rate" : 100,
@@ -52262,7 +52834,7 @@
    },
    {
       "category" : 16,
-      "index" : 4751,
+      "index" : 4803,
       "maxCount" : 16800,
       "minCount" : 16000,
       "rate" : 100,
@@ -52273,7 +52845,7 @@
    },
    {
       "category" : 16,
-      "index" : 4752,
+      "index" : 4804,
       "maxCount" : 17600,
       "minCount" : 16800,
       "rate" : 100,
@@ -52284,7 +52856,7 @@
    },
    {
       "category" : 16,
-      "index" : 4753,
+      "index" : 4805,
       "maxCount" : 18400,
       "minCount" : 17600,
       "rate" : 100,
@@ -52295,7 +52867,7 @@
    },
    {
       "category" : 16,
-      "index" : 4754,
+      "index" : 4806,
       "maxCount" : 19200,
       "minCount" : 18400,
       "rate" : 100,
@@ -52306,7 +52878,7 @@
    },
    {
       "category" : 16,
-      "index" : 4755,
+      "index" : 4807,
       "maxCount" : 20000,
       "minCount" : 19200,
       "rate" : 100,
@@ -52317,7 +52889,7 @@
    },
    {
       "category" : 16,
-      "index" : 4756,
+      "index" : 4808,
       "maxCount" : 20800,
       "minCount" : 20000,
       "rate" : 100,
@@ -52328,7 +52900,7 @@
    },
    {
       "category" : 16,
-      "index" : 4757,
+      "index" : 4809,
       "maxCount" : 21600,
       "minCount" : 20800,
       "rate" : 100,
@@ -52339,7 +52911,7 @@
    },
    {
       "category" : 16,
-      "index" : 4758,
+      "index" : 4810,
       "maxCount" : 22400,
       "minCount" : 21600,
       "rate" : 100,
@@ -52350,7 +52922,7 @@
    },
    {
       "category" : 16,
-      "index" : 4759,
+      "index" : 4811,
       "maxCount" : 23200,
       "minCount" : 22400,
       "rate" : 100,
@@ -52361,7 +52933,7 @@
    },
    {
       "category" : 16,
-      "index" : 4760,
+      "index" : 4812,
       "maxCount" : 24000,
       "minCount" : 23200,
       "rate" : 100,
@@ -52372,7 +52944,7 @@
    },
    {
       "category" : 16,
-      "index" : 4761,
+      "index" : 4813,
       "maxCount" : 10,
       "minCount" : 10,
       "rate" : 100,
@@ -52383,7 +52955,7 @@
    },
    {
       "category" : 16,
-      "index" : 4762,
+      "index" : 4814,
       "maxCount" : 20,
       "minCount" : 20,
       "rate" : 100,
@@ -52394,7 +52966,7 @@
    },
    {
       "category" : 16,
-      "index" : 4763,
+      "index" : 4815,
       "maxCount" : 30,
       "minCount" : 30,
       "rate" : 100,
@@ -52405,7 +52977,7 @@
    },
    {
       "category" : 16,
-      "index" : 4764,
+      "index" : 4816,
       "maxCount" : 40,
       "minCount" : 40,
       "rate" : 100,
@@ -52416,7 +52988,7 @@
    },
    {
       "category" : 16,
-      "index" : 4765,
+      "index" : 4817,
       "maxCount" : 50,
       "minCount" : 50,
       "rate" : 100,
@@ -52427,7 +52999,7 @@
    },
    {
       "category" : 16,
-      "index" : 4766,
+      "index" : 4818,
       "maxCount" : 60,
       "minCount" : 60,
       "rate" : 100,
@@ -52438,7 +53010,7 @@
    },
    {
       "category" : 16,
-      "index" : 4767,
+      "index" : 4819,
       "maxCount" : 70,
       "minCount" : 70,
       "rate" : 100,
@@ -52449,7 +53021,7 @@
    },
    {
       "category" : 16,
-      "index" : 4768,
+      "index" : 4820,
       "maxCount" : 80,
       "minCount" : 80,
       "rate" : 100,
@@ -52460,7 +53032,7 @@
    },
    {
       "category" : 16,
-      "index" : 4769,
+      "index" : 4821,
       "maxCount" : 90,
       "minCount" : 90,
       "rate" : 100,
@@ -52471,7 +53043,7 @@
    },
    {
       "category" : 16,
-      "index" : 4770,
+      "index" : 4822,
       "maxCount" : 100,
       "minCount" : 100,
       "rate" : 100,
@@ -52482,7 +53054,7 @@
    },
    {
       "category" : 16,
-      "index" : 4771,
+      "index" : 4823,
       "maxCount" : 110,
       "minCount" : 110,
       "rate" : 100,
@@ -52493,7 +53065,7 @@
    },
    {
       "category" : 16,
-      "index" : 4772,
+      "index" : 4824,
       "maxCount" : 120,
       "minCount" : 120,
       "rate" : 100,
@@ -52504,7 +53076,7 @@
    },
    {
       "category" : 16,
-      "index" : 4773,
+      "index" : 4825,
       "maxCount" : 130,
       "minCount" : 130,
       "rate" : 100,
@@ -52515,7 +53087,7 @@
    },
    {
       "category" : 16,
-      "index" : 4774,
+      "index" : 4826,
       "maxCount" : 140,
       "minCount" : 140,
       "rate" : 100,
@@ -52526,7 +53098,7 @@
    },
    {
       "category" : 16,
-      "index" : 4775,
+      "index" : 4827,
       "maxCount" : 150,
       "minCount" : 150,
       "rate" : 100,
@@ -52537,7 +53109,7 @@
    },
    {
       "category" : 16,
-      "index" : 4776,
+      "index" : 4828,
       "maxCount" : 160,
       "minCount" : 160,
       "rate" : 100,
@@ -52548,7 +53120,7 @@
    },
    {
       "category" : 16,
-      "index" : 4777,
+      "index" : 4829,
       "maxCount" : 170,
       "minCount" : 170,
       "rate" : 100,
@@ -52559,7 +53131,7 @@
    },
    {
       "category" : 16,
-      "index" : 4778,
+      "index" : 4830,
       "maxCount" : 180,
       "minCount" : 180,
       "rate" : 100,
@@ -52570,7 +53142,7 @@
    },
    {
       "category" : 16,
-      "index" : 4779,
+      "index" : 4831,
       "maxCount" : 190,
       "minCount" : 190,
       "rate" : 100,
@@ -52581,7 +53153,7 @@
    },
    {
       "category" : 16,
-      "index" : 4780,
+      "index" : 4832,
       "maxCount" : 200,
       "minCount" : 200,
       "rate" : 100,
@@ -52592,7 +53164,7 @@
    },
    {
       "category" : 16,
-      "index" : 4781,
+      "index" : 4833,
       "maxCount" : 210,
       "minCount" : 210,
       "rate" : 100,
@@ -52603,7 +53175,7 @@
    },
    {
       "category" : 16,
-      "index" : 4782,
+      "index" : 4834,
       "maxCount" : 220,
       "minCount" : 220,
       "rate" : 100,
@@ -52614,7 +53186,7 @@
    },
    {
       "category" : 16,
-      "index" : 4783,
+      "index" : 4835,
       "maxCount" : 230,
       "minCount" : 230,
       "rate" : 100,
@@ -52625,7 +53197,7 @@
    },
    {
       "category" : 16,
-      "index" : 4784,
+      "index" : 4836,
       "maxCount" : 240,
       "minCount" : 240,
       "rate" : 100,
@@ -52636,7 +53208,7 @@
    },
    {
       "category" : 16,
-      "index" : 4785,
+      "index" : 4837,
       "maxCount" : 250,
       "minCount" : 250,
       "rate" : 100,
@@ -52647,7 +53219,7 @@
    },
    {
       "category" : 16,
-      "index" : 4786,
+      "index" : 4838,
       "maxCount" : 260,
       "minCount" : 260,
       "rate" : 100,
@@ -52658,7 +53230,7 @@
    },
    {
       "category" : 16,
-      "index" : 4787,
+      "index" : 4839,
       "maxCount" : 270,
       "minCount" : 270,
       "rate" : 100,
@@ -52669,7 +53241,7 @@
    },
    {
       "category" : 16,
-      "index" : 4788,
+      "index" : 4840,
       "maxCount" : 280,
       "minCount" : 280,
       "rate" : 100,
@@ -52680,7 +53252,7 @@
    },
    {
       "category" : 16,
-      "index" : 4789,
+      "index" : 4841,
       "maxCount" : 290,
       "minCount" : 290,
       "rate" : 100,
@@ -52691,7 +53263,7 @@
    },
    {
       "category" : 16,
-      "index" : 4790,
+      "index" : 4842,
       "maxCount" : 300,
       "minCount" : 300,
       "rate" : 100,
@@ -52702,7 +53274,7 @@
    },
    {
       "category" : 16,
-      "index" : 4791,
+      "index" : 4843,
       "maxCount" : 10000,
       "minCount" : 6000,
       "rate" : 100,
@@ -52713,7 +53285,7 @@
    },
    {
       "category" : 16,
-      "index" : 4792,
+      "index" : 4844,
       "maxCount" : 20000,
       "minCount" : 10000,
       "rate" : 100,
@@ -52724,7 +53296,7 @@
    },
    {
       "category" : 16,
-      "index" : 4793,
+      "index" : 4845,
       "maxCount" : 30000,
       "minCount" : 20000,
       "rate" : 100,
@@ -52735,7 +53307,7 @@
    },
    {
       "category" : 16,
-      "index" : 4794,
+      "index" : 4846,
       "maxCount" : 40000,
       "minCount" : 30000,
       "rate" : 100,
@@ -52746,7 +53318,7 @@
    },
    {
       "category" : 16,
-      "index" : 4795,
+      "index" : 4847,
       "maxCount" : 50000,
       "minCount" : 40000,
       "rate" : 100,
@@ -52757,7 +53329,7 @@
    },
    {
       "category" : 16,
-      "index" : 4796,
+      "index" : 4848,
       "maxCount" : 60000,
       "minCount" : 50000,
       "rate" : 100,
@@ -52768,7 +53340,7 @@
    },
    {
       "category" : 16,
-      "index" : 4797,
+      "index" : 4849,
       "maxCount" : 70000,
       "minCount" : 60000,
       "rate" : 100,
@@ -52779,7 +53351,7 @@
    },
    {
       "category" : 16,
-      "index" : 4798,
+      "index" : 4850,
       "maxCount" : 80000,
       "minCount" : 70000,
       "rate" : 100,
@@ -52790,7 +53362,7 @@
    },
    {
       "category" : 16,
-      "index" : 4799,
+      "index" : 4851,
       "maxCount" : 90000,
       "minCount" : 80000,
       "rate" : 100,
@@ -52801,7 +53373,7 @@
    },
    {
       "category" : 16,
-      "index" : 4800,
+      "index" : 4852,
       "maxCount" : 100000,
       "minCount" : 90000,
       "rate" : 100,
@@ -52812,7 +53384,7 @@
    },
    {
       "category" : 16,
-      "index" : 4801,
+      "index" : 4853,
       "maxCount" : 110000,
       "minCount" : 100000,
       "rate" : 100,
@@ -52823,7 +53395,7 @@
    },
    {
       "category" : 16,
-      "index" : 4802,
+      "index" : 4854,
       "maxCount" : 120000,
       "minCount" : 110000,
       "rate" : 100,
@@ -52834,7 +53406,7 @@
    },
    {
       "category" : 16,
-      "index" : 4803,
+      "index" : 4855,
       "maxCount" : 130000,
       "minCount" : 120000,
       "rate" : 100,
@@ -52845,7 +53417,7 @@
    },
    {
       "category" : 16,
-      "index" : 4804,
+      "index" : 4856,
       "maxCount" : 140000,
       "minCount" : 130000,
       "rate" : 100,
@@ -52856,7 +53428,7 @@
    },
    {
       "category" : 16,
-      "index" : 4805,
+      "index" : 4857,
       "maxCount" : 150000,
       "minCount" : 140000,
       "rate" : 100,
@@ -52867,7 +53439,7 @@
    },
    {
       "category" : 16,
-      "index" : 4806,
+      "index" : 4858,
       "maxCount" : 160000,
       "minCount" : 150000,
       "rate" : 100,
@@ -52878,7 +53450,7 @@
    },
    {
       "category" : 16,
-      "index" : 4807,
+      "index" : 4859,
       "maxCount" : 170000,
       "minCount" : 160000,
       "rate" : 100,
@@ -52889,7 +53461,7 @@
    },
    {
       "category" : 16,
-      "index" : 4808,
+      "index" : 4860,
       "maxCount" : 180000,
       "minCount" : 170000,
       "rate" : 100,
@@ -52900,7 +53472,7 @@
    },
    {
       "category" : 16,
-      "index" : 4809,
+      "index" : 4861,
       "maxCount" : 190000,
       "minCount" : 180000,
       "rate" : 100,
@@ -52911,7 +53483,7 @@
    },
    {
       "category" : 16,
-      "index" : 4810,
+      "index" : 4862,
       "maxCount" : 200000,
       "minCount" : 190000,
       "rate" : 100,
@@ -52922,7 +53494,7 @@
    },
    {
       "category" : 16,
-      "index" : 4811,
+      "index" : 4863,
       "maxCount" : 210000,
       "minCount" : 200000,
       "rate" : 100,
@@ -52933,7 +53505,7 @@
    },
    {
       "category" : 16,
-      "index" : 4812,
+      "index" : 4864,
       "maxCount" : 220000,
       "minCount" : 210000,
       "rate" : 100,
@@ -52944,7 +53516,7 @@
    },
    {
       "category" : 16,
-      "index" : 4813,
+      "index" : 4865,
       "maxCount" : 230000,
       "minCount" : 220000,
       "rate" : 100,
@@ -52955,7 +53527,7 @@
    },
    {
       "category" : 16,
-      "index" : 4814,
+      "index" : 4866,
       "maxCount" : 240000,
       "minCount" : 230000,
       "rate" : 100,
@@ -52966,7 +53538,7 @@
    },
    {
       "category" : 16,
-      "index" : 4815,
+      "index" : 4867,
       "maxCount" : 250000,
       "minCount" : 240000,
       "rate" : 100,
@@ -52977,7 +53549,7 @@
    },
    {
       "category" : 16,
-      "index" : 4816,
+      "index" : 4868,
       "maxCount" : 260000,
       "minCount" : 250000,
       "rate" : 100,
@@ -52988,7 +53560,7 @@
    },
    {
       "category" : 16,
-      "index" : 4817,
+      "index" : 4869,
       "maxCount" : 270000,
       "minCount" : 260000,
       "rate" : 100,
@@ -52999,7 +53571,7 @@
    },
    {
       "category" : 16,
-      "index" : 4818,
+      "index" : 4870,
       "maxCount" : 280000,
       "minCount" : 270000,
       "rate" : 100,
@@ -53010,7 +53582,7 @@
    },
    {
       "category" : 16,
-      "index" : 4819,
+      "index" : 4871,
       "maxCount" : 290000,
       "minCount" : 280000,
       "rate" : 100,
@@ -53021,7 +53593,7 @@
    },
    {
       "category" : 16,
-      "index" : 4820,
+      "index" : 4872,
       "maxCount" : 300000,
       "minCount" : 290000,
       "rate" : 100,
@@ -53032,7 +53604,7 @@
    },
    {
       "category" : 16,
-      "index" : 4821,
+      "index" : 4873,
       "maxCount" : 800,
       "minCount" : 500,
       "rate" : 100,
@@ -53043,7 +53615,7 @@
    },
    {
       "category" : 16,
-      "index" : 4822,
+      "index" : 4874,
       "maxCount" : 1600,
       "minCount" : 800,
       "rate" : 100,
@@ -53054,7 +53626,7 @@
    },
    {
       "category" : 16,
-      "index" : 4823,
+      "index" : 4875,
       "maxCount" : 2400,
       "minCount" : 1600,
       "rate" : 100,
@@ -53065,7 +53637,7 @@
    },
    {
       "category" : 16,
-      "index" : 4824,
+      "index" : 4876,
       "maxCount" : 3200,
       "minCount" : 2400,
       "rate" : 100,
@@ -53076,7 +53648,7 @@
    },
    {
       "category" : 16,
-      "index" : 4825,
+      "index" : 4877,
       "maxCount" : 4000,
       "minCount" : 3200,
       "rate" : 100,
@@ -53087,7 +53659,7 @@
    },
    {
       "category" : 16,
-      "index" : 4826,
+      "index" : 4878,
       "maxCount" : 4800,
       "minCount" : 4000,
       "rate" : 100,
@@ -53098,7 +53670,7 @@
    },
    {
       "category" : 16,
-      "index" : 4827,
+      "index" : 4879,
       "maxCount" : 5600,
       "minCount" : 4800,
       "rate" : 100,
@@ -53109,7 +53681,7 @@
    },
    {
       "category" : 16,
-      "index" : 4828,
+      "index" : 4880,
       "maxCount" : 6400,
       "minCount" : 5600,
       "rate" : 100,
@@ -53120,7 +53692,7 @@
    },
    {
       "category" : 16,
-      "index" : 4829,
+      "index" : 4881,
       "maxCount" : 7200,
       "minCount" : 6400,
       "rate" : 100,
@@ -53131,7 +53703,7 @@
    },
    {
       "category" : 16,
-      "index" : 4830,
+      "index" : 4882,
       "maxCount" : 8000,
       "minCount" : 7200,
       "rate" : 100,
@@ -53142,7 +53714,7 @@
    },
    {
       "category" : 16,
-      "index" : 4831,
+      "index" : 4883,
       "maxCount" : 8800,
       "minCount" : 8000,
       "rate" : 100,
@@ -53153,7 +53725,7 @@
    },
    {
       "category" : 16,
-      "index" : 4832,
+      "index" : 4884,
       "maxCount" : 9600,
       "minCount" : 8800,
       "rate" : 100,
@@ -53164,7 +53736,7 @@
    },
    {
       "category" : 16,
-      "index" : 4833,
+      "index" : 4885,
       "maxCount" : 10400,
       "minCount" : 9600,
       "rate" : 100,
@@ -53175,7 +53747,7 @@
    },
    {
       "category" : 16,
-      "index" : 4834,
+      "index" : 4886,
       "maxCount" : 11200,
       "minCount" : 10400,
       "rate" : 100,
@@ -53186,7 +53758,7 @@
    },
    {
       "category" : 16,
-      "index" : 4835,
+      "index" : 4887,
       "maxCount" : 12000,
       "minCount" : 11200,
       "rate" : 100,
@@ -53197,7 +53769,7 @@
    },
    {
       "category" : 16,
-      "index" : 4836,
+      "index" : 4888,
       "maxCount" : 12800,
       "minCount" : 12000,
       "rate" : 100,
@@ -53208,7 +53780,7 @@
    },
    {
       "category" : 16,
-      "index" : 4837,
+      "index" : 4889,
       "maxCount" : 13600,
       "minCount" : 12800,
       "rate" : 100,
@@ -53219,7 +53791,7 @@
    },
    {
       "category" : 16,
-      "index" : 4838,
+      "index" : 4890,
       "maxCount" : 14400,
       "minCount" : 13600,
       "rate" : 100,
@@ -53230,7 +53802,7 @@
    },
    {
       "category" : 16,
-      "index" : 4839,
+      "index" : 4891,
       "maxCount" : 15200,
       "minCount" : 14400,
       "rate" : 100,
@@ -53241,7 +53813,7 @@
    },
    {
       "category" : 16,
-      "index" : 4840,
+      "index" : 4892,
       "maxCount" : 16000,
       "minCount" : 15200,
       "rate" : 100,
@@ -53252,7 +53824,7 @@
    },
    {
       "category" : 16,
-      "index" : 4841,
+      "index" : 4893,
       "maxCount" : 16800,
       "minCount" : 16000,
       "rate" : 100,
@@ -53263,7 +53835,7 @@
    },
    {
       "category" : 16,
-      "index" : 4842,
+      "index" : 4894,
       "maxCount" : 17600,
       "minCount" : 16800,
       "rate" : 100,
@@ -53274,7 +53846,7 @@
    },
    {
       "category" : 16,
-      "index" : 4843,
+      "index" : 4895,
       "maxCount" : 18400,
       "minCount" : 17600,
       "rate" : 100,
@@ -53285,7 +53857,7 @@
    },
    {
       "category" : 16,
-      "index" : 4844,
+      "index" : 4896,
       "maxCount" : 19200,
       "minCount" : 18400,
       "rate" : 100,
@@ -53296,7 +53868,7 @@
    },
    {
       "category" : 16,
-      "index" : 4845,
+      "index" : 4897,
       "maxCount" : 20000,
       "minCount" : 19200,
       "rate" : 100,
@@ -53307,7 +53879,7 @@
    },
    {
       "category" : 16,
-      "index" : 4846,
+      "index" : 4898,
       "maxCount" : 20800,
       "minCount" : 20000,
       "rate" : 100,
@@ -53318,7 +53890,7 @@
    },
    {
       "category" : 16,
-      "index" : 4847,
+      "index" : 4899,
       "maxCount" : 21600,
       "minCount" : 20800,
       "rate" : 100,
@@ -53329,7 +53901,7 @@
    },
    {
       "category" : 16,
-      "index" : 4848,
+      "index" : 4900,
       "maxCount" : 22400,
       "minCount" : 21600,
       "rate" : 100,
@@ -53340,7 +53912,7 @@
    },
    {
       "category" : 16,
-      "index" : 4849,
+      "index" : 4901,
       "maxCount" : 23200,
       "minCount" : 22400,
       "rate" : 100,
@@ -53351,7 +53923,7 @@
    },
    {
       "category" : 16,
-      "index" : 4850,
+      "index" : 4902,
       "maxCount" : 24000,
       "minCount" : 23200,
       "rate" : 100,
@@ -53362,7 +53934,7 @@
    },
    {
       "category" : 16,
-      "index" : 4851,
+      "index" : 4903,
       "maxCount" : 10,
       "minCount" : 10,
       "rate" : 100,
@@ -53373,7 +53945,7 @@
    },
    {
       "category" : 16,
-      "index" : 4852,
+      "index" : 4904,
       "maxCount" : 20,
       "minCount" : 20,
       "rate" : 100,
@@ -53384,7 +53956,7 @@
    },
    {
       "category" : 16,
-      "index" : 4853,
+      "index" : 4905,
       "maxCount" : 30,
       "minCount" : 30,
       "rate" : 100,
@@ -53395,7 +53967,7 @@
    },
    {
       "category" : 16,
-      "index" : 4854,
+      "index" : 4906,
       "maxCount" : 40,
       "minCount" : 40,
       "rate" : 100,
@@ -53406,7 +53978,7 @@
    },
    {
       "category" : 16,
-      "index" : 4855,
+      "index" : 4907,
       "maxCount" : 50,
       "minCount" : 50,
       "rate" : 100,
@@ -53417,7 +53989,7 @@
    },
    {
       "category" : 16,
-      "index" : 4856,
+      "index" : 4908,
       "maxCount" : 60,
       "minCount" : 60,
       "rate" : 100,
@@ -53428,7 +54000,7 @@
    },
    {
       "category" : 16,
-      "index" : 4857,
+      "index" : 4909,
       "maxCount" : 70,
       "minCount" : 70,
       "rate" : 100,
@@ -53439,7 +54011,7 @@
    },
    {
       "category" : 16,
-      "index" : 4858,
+      "index" : 4910,
       "maxCount" : 80,
       "minCount" : 80,
       "rate" : 100,
@@ -53450,7 +54022,7 @@
    },
    {
       "category" : 16,
-      "index" : 4859,
+      "index" : 4911,
       "maxCount" : 90,
       "minCount" : 90,
       "rate" : 100,
@@ -53461,7 +54033,7 @@
    },
    {
       "category" : 16,
-      "index" : 4860,
+      "index" : 4912,
       "maxCount" : 100,
       "minCount" : 100,
       "rate" : 100,
@@ -53472,7 +54044,7 @@
    },
    {
       "category" : 16,
-      "index" : 4861,
+      "index" : 4913,
       "maxCount" : 110,
       "minCount" : 110,
       "rate" : 100,
@@ -53483,7 +54055,7 @@
    },
    {
       "category" : 16,
-      "index" : 4862,
+      "index" : 4914,
       "maxCount" : 120,
       "minCount" : 120,
       "rate" : 100,
@@ -53494,7 +54066,7 @@
    },
    {
       "category" : 16,
-      "index" : 4863,
+      "index" : 4915,
       "maxCount" : 130,
       "minCount" : 130,
       "rate" : 100,
@@ -53505,7 +54077,7 @@
    },
    {
       "category" : 16,
-      "index" : 4864,
+      "index" : 4916,
       "maxCount" : 140,
       "minCount" : 140,
       "rate" : 100,
@@ -53516,7 +54088,7 @@
    },
    {
       "category" : 16,
-      "index" : 4865,
+      "index" : 4917,
       "maxCount" : 150,
       "minCount" : 150,
       "rate" : 100,
@@ -53527,7 +54099,7 @@
    },
    {
       "category" : 16,
-      "index" : 4866,
+      "index" : 4918,
       "maxCount" : 160,
       "minCount" : 160,
       "rate" : 100,
@@ -53538,7 +54110,7 @@
    },
    {
       "category" : 16,
-      "index" : 4867,
+      "index" : 4919,
       "maxCount" : 170,
       "minCount" : 170,
       "rate" : 100,
@@ -53549,7 +54121,7 @@
    },
    {
       "category" : 16,
-      "index" : 4868,
+      "index" : 4920,
       "maxCount" : 180,
       "minCount" : 180,
       "rate" : 100,
@@ -53560,7 +54132,7 @@
    },
    {
       "category" : 16,
-      "index" : 4869,
+      "index" : 4921,
       "maxCount" : 190,
       "minCount" : 190,
       "rate" : 100,
@@ -53571,7 +54143,7 @@
    },
    {
       "category" : 16,
-      "index" : 4870,
+      "index" : 4922,
       "maxCount" : 200,
       "minCount" : 200,
       "rate" : 100,
@@ -53582,7 +54154,7 @@
    },
    {
       "category" : 16,
-      "index" : 4871,
+      "index" : 4923,
       "maxCount" : 210,
       "minCount" : 210,
       "rate" : 100,
@@ -53593,7 +54165,7 @@
    },
    {
       "category" : 16,
-      "index" : 4872,
+      "index" : 4924,
       "maxCount" : 220,
       "minCount" : 220,
       "rate" : 100,
@@ -53604,7 +54176,7 @@
    },
    {
       "category" : 16,
-      "index" : 4873,
+      "index" : 4925,
       "maxCount" : 230,
       "minCount" : 230,
       "rate" : 100,
@@ -53615,7 +54187,7 @@
    },
    {
       "category" : 16,
-      "index" : 4874,
+      "index" : 4926,
       "maxCount" : 240,
       "minCount" : 240,
       "rate" : 100,
@@ -53626,7 +54198,7 @@
    },
    {
       "category" : 16,
-      "index" : 4875,
+      "index" : 4927,
       "maxCount" : 250,
       "minCount" : 250,
       "rate" : 100,
@@ -53637,7 +54209,7 @@
    },
    {
       "category" : 16,
-      "index" : 4876,
+      "index" : 4928,
       "maxCount" : 260,
       "minCount" : 260,
       "rate" : 100,
@@ -53648,7 +54220,7 @@
    },
    {
       "category" : 16,
-      "index" : 4877,
+      "index" : 4929,
       "maxCount" : 270,
       "minCount" : 270,
       "rate" : 100,
@@ -53659,7 +54231,7 @@
    },
    {
       "category" : 16,
-      "index" : 4878,
+      "index" : 4930,
       "maxCount" : 280,
       "minCount" : 280,
       "rate" : 100,
@@ -53670,7 +54242,7 @@
    },
    {
       "category" : 16,
-      "index" : 4879,
+      "index" : 4931,
       "maxCount" : 290,
       "minCount" : 290,
       "rate" : 100,
@@ -53681,7 +54253,7 @@
    },
    {
       "category" : 16,
-      "index" : 4880,
+      "index" : 4932,
       "maxCount" : 300,
       "minCount" : 300,
       "rate" : 100,
