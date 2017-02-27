@@ -766,6 +766,21 @@
    },
    {
       "display" : 2,
+      "idx" : 150,
+      "navigatortype1" : 6,
+      "navigatortype2" : 0,
+      "navigatortype3" : 0,
+      "position1" : 0,
+      "position2" : 0,
+      "position3" : 0,
+      "price" : 500,
+      "pricetype" : 1,
+      "pricetypeidx" : 4,
+      "type" : 2,
+      "typeidx" : 56
+   },
+   {
+      "display" : 2,
       "idx" : 140,
       "navigatortype1" : 7,
       "navigatortype2" : 0,
@@ -3058,6 +3073,21 @@
       "pricetypeidx" : 4,
       "type" : 5,
       "typeidx" : 20006
+   },
+   {
+      "display" : 4,
+      "idx" : 330,
+      "navigatortype1" : 12,
+      "navigatortype2" : 0,
+      "navigatortype3" : 0,
+      "position1" : 0,
+      "position2" : 0,
+      "position3" : 0,
+      "price" : 100,
+      "pricetype" : 1,
+      "pricetypeidx" : 4,
+      "type" : 5,
+      "typeidx" : 20007
    },
    {
       "display" : 3,

@@ -2250,11 +2250,61 @@
       "tier" : 5
    },
    {
+      "aim" : 7,
+      "atk" : 5,
+      "def" : 1,
+      "hp" : 23,
+      "index" : 225,
+      "key" : 56,
+      "luck" : 1,
+      "tier" : 1
+   },
+   {
+      "aim" : 19,
+      "atk" : 15,
+      "def" : 2,
+      "hp" : 68,
+      "index" : 226,
+      "key" : 56,
+      "luck" : 2,
+      "tier" : 2
+   },
+   {
+      "aim" : 31,
+      "atk" : 24,
+      "def" : 3,
+      "hp" : 112,
+      "index" : 227,
+      "key" : 56,
+      "luck" : 3,
+      "tier" : 3
+   },
+   {
+      "aim" : 46,
+      "atk" : 36,
+      "def" : 4,
+      "hp" : 168,
+      "index" : 228,
+      "key" : 56,
+      "luck" : 4,
+      "tier" : 4
+   },
+   {
+      "aim" : 61,
+      "atk" : 47,
+      "def" : 5,
+      "hp" : 224,
+      "index" : 229,
+      "key" : 56,
+      "luck" : 5,
+      "tier" : 5
+   },
+   {
       "aim" : 0,
       "atk" : 0,
       "def" : 0,
       "hp" : 0,
-      "index" : 225,
+      "index" : 230,
       "key" : 99,
       "luck" : 0,
       "tier" : 1
@@ -2264,7 +2314,7 @@
       "atk" : 0,
       "def" : 0,
       "hp" : 0,
-      "index" : 226,
+      "index" : 231,
       "key" : 99,
       "luck" : 0,
       "tier" : 2
@@ -2274,7 +2324,7 @@
       "atk" : 0,
       "def" : 0,
       "hp" : 0,
-      "index" : 227,
+      "index" : 232,
       "key" : 99,
       "luck" : 0,
       "tier" : 3
@@ -2284,7 +2334,7 @@
       "atk" : 0,
       "def" : 0,
       "hp" : 0,
-      "index" : 228,
+      "index" : 233,
       "key" : 99,
       "luck" : 0,
       "tier" : 4
@@ -2294,7 +2344,7 @@
       "atk" : 0,
       "def" : 0,
       "hp" : 0,
-      "index" : 229,
+      "index" : 234,
       "key" : 99,
       "luck" : 0,
       "tier" : 5
@@ -2304,7 +2354,7 @@
       "atk" : 10,
       "def" : 1,
       "hp" : 29,
-      "index" : 230,
+      "index" : 235,
       "key" : 198,
       "luck" : 0,
       "tier" : 1
@@ -2314,7 +2364,7 @@
       "atk" : 20,
       "def" : 1,
       "hp" : 58,
-      "index" : 231,
+      "index" : 236,
       "key" : 198,
       "luck" : 0,
       "tier" : 2
@@ -2324,7 +2374,7 @@
       "atk" : 48,
       "def" : 2,
       "hp" : 96,
-      "index" : 232,
+      "index" : 237,
       "key" : 198,
       "luck" : 0,
       "tier" : 3
@@ -2334,7 +2384,7 @@
       "atk" : 103,
       "def" : 3,
       "hp" : 135,
-      "index" : 233,
+      "index" : 238,
       "key" : 198,
       "luck" : 0,
       "tier" : 4
@@ -2344,7 +2394,7 @@
       "atk" : 220,
       "def" : 3,
       "hp" : 192,
-      "index" : 234,
+      "index" : 239,
       "key" : 198,
       "luck" : 0,
       "tier" : 5
@@ -2354,7 +2404,7 @@
       "atk" : 3,
       "def" : 1,
       "hp" : 20,
-      "index" : 235,
+      "index" : 240,
       "key" : 199,
       "luck" : 0,
       "tier" : 1
@@ -2364,7 +2414,7 @@
       "atk" : 9,
       "def" : 3,
       "hp" : 58,
-      "index" : 236,
+      "index" : 241,
       "key" : 199,
       "luck" : 0,
       "tier" : 2
@@ -2374,7 +2424,7 @@
       "atk" : 25,
       "def" : 4,
       "hp" : 106,
-      "index" : 237,
+      "index" : 242,
       "key" : 199,
       "luck" : 0,
       "tier" : 3
@@ -2384,7 +2434,7 @@
       "atk" : 48,
       "def" : 5,
       "hp" : 135,
-      "index" : 238,
+      "index" : 243,
       "key" : 199,
       "luck" : 0,
       "tier" : 4
@@ -2394,7 +2444,7 @@
       "atk" : 105,
       "def" : 7,
       "hp" : 192,
-      "index" : 239,
+      "index" : 244,
       "key" : 199,
       "luck" : 0,
       "tier" : 5
@@ -2404,7 +2454,7 @@
       "atk" : 9,
       "def" : 1,
       "hp" : 27,
-      "index" : 240,
+      "index" : 245,
       "key" : 200,
       "luck" : 0,
       "tier" : 1
@@ -2414,7 +2464,7 @@
       "atk" : 18,
       "def" : 1,
       "hp" : 54,
-      "index" : 241,
+      "index" : 246,
       "key" : 200,
       "luck" : 0,
       "tier" : 2
@@ -2424,7 +2474,7 @@
       "atk" : 42,
       "def" : 2,
       "hp" : 89,
-      "index" : 242,
+      "index" : 247,
       "key" : 200,
       "luck" : 0,
       "tier" : 3
@@ -2434,7 +2484,7 @@
       "atk" : 89,
       "def" : 3,
       "hp" : 125,
-      "index" : 243,
+      "index" : 248,
       "key" : 200,
       "luck" : 0,
       "tier" : 4
@@ -2444,7 +2494,7 @@
       "atk" : 192,
       "def" : 3,
       "hp" : 179,
-      "index" : 244,
+      "index" : 249,
       "key" : 200,
       "luck" : 0,
       "tier" : 5
@@ -2454,7 +2504,7 @@
       "atk" : 9,
       "def" : 1,
       "hp" : 37,
-      "index" : 245,
+      "index" : 250,
       "key" : 255,
       "luck" : 1,
       "tier" : 1
@@ -2464,7 +2514,7 @@
       "atk" : 17,
       "def" : 1,
       "hp" : 73,
-      "index" : 246,
+      "index" : 251,
       "key" : 255,
       "luck" : 2,
       "tier" : 2
@@ -2474,7 +2524,7 @@
       "atk" : 28,
       "def" : 1,
       "hp" : 121,
-      "index" : 247,
+      "index" : 252,
       "key" : 255,
       "luck" : 3,
       "tier" : 3
@@ -2484,7 +2534,7 @@
       "atk" : 39,
       "def" : 2,
       "hp" : 169,
-      "index" : 248,
+      "index" : 253,
       "key" : 255,
       "luck" : 4,
       "tier" : 4
@@ -2494,7 +2544,7 @@
       "atk" : 55,
       "def" : 2,
       "hp" : 241,
-      "index" : 249,
+      "index" : 254,
       "key" : 255,
       "luck" : 5,
       "tier" : 5
