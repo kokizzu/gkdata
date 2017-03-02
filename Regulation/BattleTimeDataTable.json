@@ -52,7 +52,7 @@
    {
       "category" : 7,
       "endDate" : "0",
-      "endTime" : "20:00:00",
+      "endTime" : "19:00:00",
       "startDate" : "0",
       "startTime" : "00:00:00",
       "type" : 1,
@@ -62,9 +62,9 @@
    {
       "category" : 7,
       "endDate" : "0",
-      "endTime" : "21:00:00",
+      "endTime" : "20:00:00",
       "startDate" : "0",
-      "startTime" : "20:00:00",
+      "startTime" : "19:00:00",
       "type" : 2,
       "typeIndex" : 0,
       "weekIdx" : "1,2,3,4,5,6,7"
@@ -72,9 +72,9 @@
    {
       "category" : 7,
       "endDate" : "0",
-      "endTime" : "23:00:00",
+      "endTime" : "22:00:00",
       "startDate" : "0",
-      "startTime" : "21:00:00",
+      "startTime" : "20:00:00",
       "type" : 3,
       "typeIndex" : 0,
       "weekIdx" : "1,2,3,4,5,6,7"
@@ -84,7 +84,7 @@
       "endDate" : "0",
       "endTime" : "24:00:00",
       "startDate" : "0",
-      "startTime" : "23:00:00",
+      "startTime" : "22:00:00",
       "type" : 4,
       "typeIndex" : 0,
       "weekIdx" : "1,2,3,4,5,6,7"
@@ -117,6 +117,16 @@
       "startTime" : "18:00:00",
       "type" : 1,
       "typeIndex" : 2,
+      "weekIdx" : "1,2,3,4,5,6,7"
+   },
+   {
+      "category" : 12,
+      "endDate" : 0,
+      "endTime" : "23:30:00",
+      "startDate" : 0,
+      "startTime" : "00:30:00",
+      "type" : 0,
+      "typeIndex" : 0,
       "weekIdx" : "1,2,3,4,5,6,7"
    }
 ]

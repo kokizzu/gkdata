@@ -128,5 +128,18 @@
       "type" : 6,
       "typeIndex" : 1,
       "vipMeasure" : 1
+   },
+   {
+      "idx" : 701,
+      "numberMeasure" : 5,
+      "priceAddPercent" : 200,
+      "rechargeAddPoint" : 1,
+      "rechargeAmount" : 1,
+      "startRecharge" : 5,
+      "startRechargePrice" : 15,
+      "startVip" : 0,
+      "type" : 1,
+      "typeIndex" : 57,
+      "vipMeasure" : 1
    }
 ]

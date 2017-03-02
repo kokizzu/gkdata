@@ -1,0 +1,3952 @@
+[
+   {
+      "givetype" : 1,
+      "idx" : 101,
+      "index" : 0,
+      "rate" : 0,
+      "rewardamountmax" : 100,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 101,
+      "index" : 1,
+      "rate" : 0,
+      "rewardamountmax" : 5,
+      "rewardamountmin" : 5,
+      "rewardidx" : 18,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 102,
+      "index" : 2,
+      "rate" : 0,
+      "rewardamountmax" : 50,
+      "rewardamountmin" : 50,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 102,
+      "index" : 3,
+      "rate" : 0,
+      "rewardamountmax" : 3,
+      "rewardamountmin" : 3,
+      "rewardidx" : 18,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 103,
+      "index" : 4,
+      "rate" : 0,
+      "rewardamountmax" : 30,
+      "rewardamountmin" : 30,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 103,
+      "index" : 5,
+      "rate" : 0,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 18,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 104,
+      "index" : 6,
+      "rate" : 0,
+      "rewardamountmax" : 10000,
+      "rewardamountmin" : 10000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 104,
+      "index" : 7,
+      "rate" : 45,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 18,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 104,
+      "index" : 8,
+      "rate" : 45,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 54,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 104,
+      "index" : 9,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 55,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 114,
+      "index" : 10,
+      "rate" : 0,
+      "rewardamountmax" : 4320,
+      "rewardamountmin" : 3600,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 115,
+      "index" : 11,
+      "rate" : 0,
+      "rewardamountmax" : 4560,
+      "rewardamountmin" : 3800,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 116,
+      "index" : 12,
+      "rate" : 0,
+      "rewardamountmax" : 4800,
+      "rewardamountmin" : 4000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 117,
+      "index" : 13,
+      "rate" : 0,
+      "rewardamountmax" : 5040,
+      "rewardamountmin" : 4200,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 118,
+      "index" : 14,
+      "rate" : 0,
+      "rewardamountmax" : 12000,
+      "rewardamountmin" : 10000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 119,
+      "index" : 15,
+      "rate" : 0,
+      "rewardamountmax" : 14400,
+      "rewardamountmin" : 12000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 120,
+      "index" : 16,
+      "rate" : 0,
+      "rewardamountmax" : 16800,
+      "rewardamountmin" : 14000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 121,
+      "index" : 17,
+      "rate" : 0,
+      "rewardamountmax" : 19200,
+      "rewardamountmin" : 16000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 122,
+      "index" : 18,
+      "rate" : 0,
+      "rewardamountmax" : 21600,
+      "rewardamountmin" : 18000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 123,
+      "index" : 19,
+      "rate" : 0,
+      "rewardamountmax" : 24000,
+      "rewardamountmin" : 20000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 124,
+      "index" : 20,
+      "rate" : 0,
+      "rewardamountmax" : 26400,
+      "rewardamountmin" : 22000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 125,
+      "index" : 21,
+      "rate" : 0,
+      "rewardamountmax" : 28800,
+      "rewardamountmin" : 24000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 126,
+      "index" : 22,
+      "rate" : 0,
+      "rewardamountmax" : 31200,
+      "rewardamountmin" : 26000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 127,
+      "index" : 23,
+      "rate" : 0,
+      "rewardamountmax" : 33600,
+      "rewardamountmin" : 28000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 128,
+      "index" : 24,
+      "rate" : 0,
+      "rewardamountmax" : 36000,
+      "rewardamountmin" : 30000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 129,
+      "index" : 25,
+      "rate" : 0,
+      "rewardamountmax" : 38400,
+      "rewardamountmin" : 32000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 130,
+      "index" : 26,
+      "rate" : 0,
+      "rewardamountmax" : 40800,
+      "rewardamountmin" : 34000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 131,
+      "index" : 27,
+      "rate" : 0,
+      "rewardamountmax" : 43200,
+      "rewardamountmin" : 36000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 132,
+      "index" : 28,
+      "rate" : 0,
+      "rewardamountmax" : 45600,
+      "rewardamountmin" : 38000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 133,
+      "index" : 29,
+      "rate" : 0,
+      "rewardamountmax" : 48000,
+      "rewardamountmin" : 40000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 134,
+      "index" : 30,
+      "rate" : 0,
+      "rewardamountmax" : 50400,
+      "rewardamountmin" : 42000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 135,
+      "index" : 31,
+      "rate" : 1,
+      "rewardamountmax" : 6,
+      "rewardamountmin" : 1,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 135,
+      "index" : 32,
+      "rate" : 1,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 136,
+      "index" : 33,
+      "rate" : 1,
+      "rewardamountmax" : 7,
+      "rewardamountmin" : 2,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 136,
+      "index" : 34,
+      "rate" : 1,
+      "rewardamountmax" : 205,
+      "rewardamountmin" : 200,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 137,
+      "index" : 35,
+      "rate" : 1,
+      "rewardamountmax" : 8,
+      "rewardamountmin" : 3,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 137,
+      "index" : 36,
+      "rate" : 1,
+      "rewardamountmax" : 305,
+      "rewardamountmin" : 300,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 138,
+      "index" : 37,
+      "rate" : 1,
+      "rewardamountmax" : 9,
+      "rewardamountmin" : 4,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 138,
+      "index" : 38,
+      "rate" : 1,
+      "rewardamountmax" : 405,
+      "rewardamountmin" : 400,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 139,
+      "index" : 39,
+      "rate" : 1,
+      "rewardamountmax" : 10,
+      "rewardamountmin" : 5,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 139,
+      "index" : 40,
+      "rate" : 1,
+      "rewardamountmax" : 505,
+      "rewardamountmin" : 500,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 140,
+      "index" : 41,
+      "rate" : 1,
+      "rewardamountmax" : 11,
+      "rewardamountmin" : 6,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 140,
+      "index" : 42,
+      "rate" : 1,
+      "rewardamountmax" : 605,
+      "rewardamountmin" : 600,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 141,
+      "index" : 43,
+      "rate" : 1,
+      "rewardamountmax" : 12,
+      "rewardamountmin" : 7,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 141,
+      "index" : 44,
+      "rate" : 1,
+      "rewardamountmax" : 705,
+      "rewardamountmin" : 700,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 142,
+      "index" : 45,
+      "rate" : 1,
+      "rewardamountmax" : 13,
+      "rewardamountmin" : 8,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 142,
+      "index" : 46,
+      "rate" : 1,
+      "rewardamountmax" : 805,
+      "rewardamountmin" : 800,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 143,
+      "index" : 47,
+      "rate" : 1,
+      "rewardamountmax" : 14,
+      "rewardamountmin" : 9,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 143,
+      "index" : 48,
+      "rate" : 1,
+      "rewardamountmax" : 905,
+      "rewardamountmin" : 900,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 144,
+      "index" : 49,
+      "rate" : 1,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 144,
+      "index" : 50,
+      "rate" : 1,
+      "rewardamountmax" : 1005,
+      "rewardamountmin" : 1000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 145,
+      "index" : 51,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 145,
+      "index" : 52,
+      "rate" : 0,
+      "rewardamountmax" : 12000,
+      "rewardamountmin" : 10000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 146,
+      "index" : 53,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 146,
+      "index" : 54,
+      "rate" : 0,
+      "rewardamountmax" : 14400,
+      "rewardamountmin" : 12000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 147,
+      "index" : 55,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 147,
+      "index" : 56,
+      "rate" : 0,
+      "rewardamountmax" : 16800,
+      "rewardamountmin" : 14000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 148,
+      "index" : 57,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 148,
+      "index" : 58,
+      "rate" : 0,
+      "rewardamountmax" : 19200,
+      "rewardamountmin" : 16000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 149,
+      "index" : 59,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 149,
+      "index" : 60,
+      "rate" : 0,
+      "rewardamountmax" : 21600,
+      "rewardamountmin" : 18000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 150,
+      "index" : 61,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 150,
+      "index" : 62,
+      "rate" : 0,
+      "rewardamountmax" : 24000,
+      "rewardamountmin" : 20000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 151,
+      "index" : 63,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 151,
+      "index" : 64,
+      "rate" : 0,
+      "rewardamountmax" : 26400,
+      "rewardamountmin" : 22000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 152,
+      "index" : 65,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 152,
+      "index" : 66,
+      "rate" : 0,
+      "rewardamountmax" : 28800,
+      "rewardamountmin" : 24000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 153,
+      "index" : 67,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 153,
+      "index" : 68,
+      "rate" : 0,
+      "rewardamountmax" : 31200,
+      "rewardamountmin" : 26000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 154,
+      "index" : 69,
+      "rate" : 0,
+      "rewardamountmax" : 105,
+      "rewardamountmin" : 100,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 154,
+      "index" : 70,
+      "rate" : 0,
+      "rewardamountmax" : 33600,
+      "rewardamountmin" : 28000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 155,
+      "index" : 71,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 155,
+      "index" : 72,
+      "rate" : 0,
+      "rewardamountmax" : 2880,
+      "rewardamountmin" : 2400,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 156,
+      "index" : 73,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 156,
+      "index" : 74,
+      "rate" : 0,
+      "rewardamountmax" : 3120,
+      "rewardamountmin" : 2600,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 157,
+      "index" : 75,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 157,
+      "index" : 76,
+      "rate" : 0,
+      "rewardamountmax" : 3360,
+      "rewardamountmin" : 2800,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 158,
+      "index" : 77,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 158,
+      "index" : 78,
+      "rate" : 0,
+      "rewardamountmax" : 3600,
+      "rewardamountmin" : 3000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 159,
+      "index" : 79,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 159,
+      "index" : 80,
+      "rate" : 0,
+      "rewardamountmax" : 3840,
+      "rewardamountmin" : 3200,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 160,
+      "index" : 81,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 160,
+      "index" : 82,
+      "rate" : 0,
+      "rewardamountmax" : 4080,
+      "rewardamountmin" : 3400,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 161,
+      "index" : 83,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 161,
+      "index" : 84,
+      "rate" : 0,
+      "rewardamountmax" : 4320,
+      "rewardamountmin" : 3600,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 162,
+      "index" : 85,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 162,
+      "index" : 86,
+      "rate" : 0,
+      "rewardamountmax" : 4560,
+      "rewardamountmin" : 3800,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 163,
+      "index" : 87,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 163,
+      "index" : 88,
+      "rate" : 0,
+      "rewardamountmax" : 4800,
+      "rewardamountmin" : 4000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 164,
+      "index" : 89,
+      "rate" : 0,
+      "rewardamountmax" : 15,
+      "rewardamountmin" : 10,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 164,
+      "index" : 90,
+      "rate" : 0,
+      "rewardamountmax" : 5040,
+      "rewardamountmin" : 4200,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 165,
+      "index" : 91,
+      "rate" : 0,
+      "rewardamountmax" : 55,
+      "rewardamountmin" : 50,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 165,
+      "index" : 92,
+      "rate" : 0,
+      "rewardamountmax" : 5005,
+      "rewardamountmin" : 5000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 166,
+      "index" : 93,
+      "rate" : 0,
+      "rewardamountmax" : 55,
+      "rewardamountmin" : 50,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 166,
+      "index" : 94,
+      "rate" : 0,
+      "rewardamountmax" : 6005,
+      "rewardamountmin" : 6000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 167,
+      "index" : 95,
+      "rate" : 0,
+      "rewardamountmax" : 55,
+      "rewardamountmin" : 50,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 167,
+      "index" : 96,
+      "rate" : 0,
+      "rewardamountmax" : 7005,
+      "rewardamountmin" : 7000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 168,
+      "index" : 97,
+      "rate" : 0,
+      "rewardamountmax" : 55,
+      "rewardamountmin" : 50,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 168,
+      "index" : 98,
+      "rate" : 0,
+      "rewardamountmax" : 8005,
+      "rewardamountmin" : 8000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 169,
+      "index" : 99,
+      "rate" : 0,
+      "rewardamountmax" : 55,
+      "rewardamountmin" : 50,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 169,
+      "index" : 100,
+      "rate" : 0,
+      "rewardamountmax" : 9005,
+      "rewardamountmin" : 9000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 170,
+      "index" : 101,
+      "rate" : 0,
+      "rewardamountmax" : 55,
+      "rewardamountmin" : 50,
+      "rewardidx" : 2,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 170,
+      "index" : 102,
+      "rate" : 0,
+      "rewardamountmax" : 10005,
+      "rewardamountmin" : 10000,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 171,
+      "index" : 103,
+      "rate" : 0,
+      "rewardamountmax" : 100,
+      "rewardamountmin" : 100,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 172,
+      "index" : 104,
+      "rate" : 0,
+      "rewardamountmax" : 100,
+      "rewardamountmin" : 100,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 173,
+      "index" : 105,
+      "rate" : 0,
+      "rewardamountmax" : 100,
+      "rewardamountmin" : 100,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 1,
+      "idx" : 174,
+      "index" : 106,
+      "rate" : 0,
+      "rewardamountmax" : 100,
+      "rewardamountmin" : 100,
+      "rewardidx" : 4,
+      "rewardtype" : 1
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 107,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 1,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 108,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 2,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 109,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 3,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 110,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 4,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 111,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 5,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 112,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 6,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 113,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 7,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 114,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 8,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 115,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 9,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 116,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 10,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 117,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 11,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 118,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 12,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 119,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 13,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 120,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 14,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 121,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 15,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 122,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 16,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 123,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 17,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 124,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 18,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 125,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 19,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 126,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 20,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 127,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 21,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 128,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 22,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 129,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 23,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 130,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 24,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 131,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 25,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 132,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 26,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 133,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 27,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 134,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 28,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 135,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 29,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 136,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 30,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 137,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 31,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 138,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 32,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 139,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 33,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 140,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 34,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 141,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 35,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 142,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 36,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 143,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 37,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 144,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 38,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 145,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 39,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 146,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 40,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 147,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 41,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 148,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 42,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 149,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 43,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 150,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 44,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 151,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 45,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 152,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 46,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 153,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 47,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 154,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 48,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 155,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 49,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 156,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 50,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 157,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 51,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 158,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 52,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 159,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 53,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 160,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 54,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 161,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 55,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 162,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 56,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 163,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 57,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 164,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 58,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 165,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 59,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 166,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 60,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 167,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 61,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 168,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 62,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 169,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 63,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 170,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 64,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 171,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 65,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 172,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 66,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 173,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 67,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 174,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 68,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 175,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 69,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 176,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 70,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 177,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 71,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 178,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 72,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 179,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 73,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 180,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 74,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 181,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 75,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 182,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 76,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 183,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 77,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 184,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 78,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 185,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 79,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 186,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 80,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 187,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 81,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 188,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 82,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 189,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 83,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 190,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 84,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 191,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 85,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 192,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 86,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 193,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 87,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 194,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 88,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 195,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 89,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 196,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 90,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 197,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 91,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 198,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 92,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 199,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 93,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 200,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 94,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 201,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 95,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 105,
+      "index" : 202,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 96,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 203,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 1,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 204,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 5,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 205,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 9,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 206,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 13,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 207,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 17,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 208,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 21,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 209,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 25,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 210,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 29,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 211,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 33,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 212,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 37,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 213,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 41,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 214,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 45,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 215,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 49,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 216,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 53,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 217,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 57,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 218,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 61,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 219,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 65,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 220,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 69,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 221,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 73,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 222,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 77,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 223,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 81,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 224,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 85,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 225,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 89,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 106,
+      "index" : 226,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 93,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 227,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 2,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 228,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 6,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 229,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 10,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 230,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 14,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 231,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 18,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 232,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 22,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 233,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 26,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 234,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 30,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 235,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 34,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 236,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 38,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 237,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 42,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 238,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 46,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 239,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 50,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 240,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 54,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 241,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 58,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 242,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 62,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 243,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 66,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 244,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 70,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 245,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 74,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 246,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 78,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 247,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 82,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 248,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 86,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 249,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 90,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 107,
+      "index" : 250,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 94,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 251,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 3,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 252,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 7,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 253,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 11,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 254,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 15,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 255,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 19,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 256,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 23,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 257,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 27,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 258,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 31,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 259,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 35,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 260,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 39,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 261,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 43,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 262,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 47,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 263,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 51,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 264,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 55,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 265,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 59,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 266,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 63,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 267,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 67,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 268,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 71,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 269,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 75,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 270,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 79,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 271,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 83,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 272,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 87,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 273,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 91,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 108,
+      "index" : 274,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 95,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 275,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 4,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 276,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 8,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 277,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 12,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 278,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 16,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 279,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 20,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 280,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 24,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 281,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 28,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 282,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 32,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 283,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 36,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 284,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 40,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 285,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 44,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 286,
+      "rate" : 7,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 48,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 287,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 52,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 288,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 56,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 289,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 60,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 290,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 64,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 291,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 68,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 292,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 72,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 293,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 76,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 294,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 80,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 295,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 84,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 296,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 88,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 297,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 92,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 109,
+      "index" : 298,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 96,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 299,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 1,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 300,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 2,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 301,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 3,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 302,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 4,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 303,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 5,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 304,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 6,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 305,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 7,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 306,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 8,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 307,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 9,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 308,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 10,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 309,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 11,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 310,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 12,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 311,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 13,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 312,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 14,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 313,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 15,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 314,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 16,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 315,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 17,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 316,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 18,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 317,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 19,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 318,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 20,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 319,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 21,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 320,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 22,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 321,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 23,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 110,
+      "index" : 322,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 24,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 323,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 25,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 324,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 26,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 325,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 27,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 326,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 28,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 327,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 29,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 328,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 30,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 329,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 31,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 330,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 32,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 331,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 33,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 332,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 34,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 333,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 35,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 334,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 36,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 335,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 37,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 336,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 38,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 337,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 39,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 338,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 40,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 339,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 41,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 340,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 42,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 341,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 43,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 342,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 44,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 343,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 45,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 344,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 46,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 345,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 47,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 111,
+      "index" : 346,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 48,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 347,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 49,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 348,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 50,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 349,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 51,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 350,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 52,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 351,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 53,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 352,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 54,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 353,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 55,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 354,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 56,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 355,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 57,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 356,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 58,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 357,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 59,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 358,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 60,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 359,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 61,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 360,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 62,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 361,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 63,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 362,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 64,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 363,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 65,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 364,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 66,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 365,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 67,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 366,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 68,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 367,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 69,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 368,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 70,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 369,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 71,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 112,
+      "index" : 370,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 72,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 371,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 73,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 372,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 74,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 373,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 75,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 374,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 76,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 375,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 77,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 376,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 78,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 377,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 79,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 378,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 80,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 379,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 81,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 380,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 82,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 381,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 83,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 382,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 84,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 383,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 85,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 384,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 86,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 385,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 87,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 386,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 88,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 387,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 89,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 388,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 90,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 389,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 91,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 390,
+      "rate" : 5,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 92,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 391,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 93,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 392,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 94,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 393,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 95,
+      "rewardtype" : 8
+   },
+   {
+      "givetype" : 0,
+      "idx" : 113,
+      "index" : 394,
+      "rate" : 10,
+      "rewardamountmax" : 1,
+      "rewardamountmin" : 1,
+      "rewardidx" : 96,
+      "rewardtype" : 8
+   }
+]

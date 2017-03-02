@@ -1,512 +1,542 @@
 [
    {
-      "displayCount" : 10,
-      "g_idx" : 2,
-      "grade" : 1,
-      "minLevel" : 1,
-      "numberMeasure" : 2,
-      "openTime" : [
-         "09:00",
-         "12:00",
-         "18:00",
-         "21:00",
-         "24:00"
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 50,
-      "type" : 1
+      "cash" : 20,
+      "goods" : 5,
+      "index" : 0,
+      "repeatCount" : 1
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 2,
-      "grade" : 2,
-      "minLevel" : 15,
-      "numberMeasure" : 2,
-      "openTime" : [
-         "09:00",
-         "12:00",
-         "18:00",
-         "21:00",
-         "24:00"
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 50,
-      "type" : 1
+      "cash" : 30,
+      "goods" : 5,
+      "index" : 1,
+      "repeatCount" : 2
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 2,
-      "grade" : 3,
-      "minLevel" : 25,
-      "numberMeasure" : 2,
-      "openTime" : [
-         "09:00",
-         "12:00",
-         "18:00",
-         "21:00",
-         "24:00"
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 50,
-      "type" : 1
+      "cash" : 40,
+      "goods" : 5,
+      "index" : 2,
+      "repeatCount" : 3
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 2,
-      "grade" : 4,
-      "minLevel" : 35,
-      "numberMeasure" : 2,
-      "openTime" : [
-         "09:00",
-         "12:00",
-         "18:00",
-         "21:00",
-         "24:00"
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 50,
-      "type" : 1
+      "cash" : 50,
+      "goods" : 5,
+      "index" : 3,
+      "repeatCount" : 4
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 2,
-      "grade" : 5,
-      "minLevel" : 50,
-      "numberMeasure" : 2,
-      "openTime" : [
-         "09:00",
-         "12:00",
-         "18:00",
-         "21:00",
-         "24:00"
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 50,
-      "type" : 1
+      "cash" : 60,
+      "goods" : 5,
+      "index" : 4,
+      "repeatCount" : 5
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 2,
-      "grade" : 6,
-      "minLevel" : 70,
-      "numberMeasure" : 2,
-      "openTime" : [
-         "09:00",
-         "12:00",
-         "18:00",
-         "21:00",
-         "24:00"
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 50,
-      "type" : 1
+      "cash" : 70,
+      "goods" : 5,
+      "index" : 5,
+      "repeatCount" : 6
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 13,
-      "grade" : 1,
-      "minLevel" : 1,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 2
+      "cash" : 80,
+      "goods" : 5,
+      "index" : 6,
+      "repeatCount" : 7
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 13,
-      "grade" : 2,
-      "minLevel" : 15,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 2
+      "cash" : 90,
+      "goods" : 5,
+      "index" : 7,
+      "repeatCount" : 8
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 13,
-      "grade" : 3,
-      "minLevel" : 25,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 2
+      "cash" : 100,
+      "goods" : 5,
+      "index" : 8,
+      "repeatCount" : 9
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 13,
-      "grade" : 4,
-      "minLevel" : 35,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 2
+      "cash" : 110,
+      "goods" : 5,
+      "index" : 9,
+      "repeatCount" : 10
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 13,
-      "grade" : 5,
-      "minLevel" : 50,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 2
+      "cash" : 120,
+      "goods" : 5,
+      "index" : 10,
+      "repeatCount" : 11
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 13,
-      "grade" : 6,
-      "minLevel" : 70,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 2
+      "cash" : 130,
+      "goods" : 5,
+      "index" : 11,
+      "repeatCount" : 12
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 14,
-      "grade" : 1,
-      "minLevel" : 1,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 3
+      "cash" : 140,
+      "goods" : 5,
+      "index" : 12,
+      "repeatCount" : 13
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 14,
-      "grade" : 2,
-      "minLevel" : 15,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 3
+      "cash" : 150,
+      "goods" : 5,
+      "index" : 13,
+      "repeatCount" : 14
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 14,
-      "grade" : 3,
-      "minLevel" : 25,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 3
+      "cash" : 160,
+      "goods" : 5,
+      "index" : 14,
+      "repeatCount" : 15
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 14,
-      "grade" : 4,
-      "minLevel" : 35,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 3
+      "cash" : 10,
+      "goods" : 6,
+      "index" : 15,
+      "repeatCount" : 1
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 14,
-      "grade" : 5,
-      "minLevel" : 50,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 3
+      "cash" : 15,
+      "goods" : 6,
+      "index" : 16,
+      "repeatCount" : 2
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 14,
-      "grade" : 6,
-      "minLevel" : 70,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 3
+      "cash" : 20,
+      "goods" : 6,
+      "index" : 17,
+      "repeatCount" : 3
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 15,
-      "grade" : 1,
-      "minLevel" : 1,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 4
+      "cash" : 25,
+      "goods" : 6,
+      "index" : 18,
+      "repeatCount" : 4
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 15,
-      "grade" : 2,
-      "minLevel" : 15,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 4
+      "cash" : 30,
+      "goods" : 6,
+      "index" : 19,
+      "repeatCount" : 5
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 15,
-      "grade" : 3,
-      "minLevel" : 25,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 4
+      "cash" : 35,
+      "goods" : 6,
+      "index" : 20,
+      "repeatCount" : 6
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 15,
-      "grade" : 4,
-      "minLevel" : 35,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 4
+      "cash" : 40,
+      "goods" : 6,
+      "index" : 21,
+      "repeatCount" : 7
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 15,
-      "grade" : 5,
-      "minLevel" : 50,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 4
+      "cash" : 45,
+      "goods" : 6,
+      "index" : 22,
+      "repeatCount" : 8
    },
    {
-      "displayCount" : 6,
-      "g_idx" : 2,
-      "grade" : 1,
-      "minLevel" : 1,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "09:00",
-         "12:00",
-         "18:00",
-         "21:00",
-         "24:00"
-      ],
-      "priceAddPercent" : 100,
-      "startRechargePrice" : 50,
-      "type" : 5
+      "cash" : 50,
+      "goods" : 6,
+      "index" : 23,
+      "repeatCount" : 9
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 20,
-      "grade" : 1,
-      "minLevel" : 1,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 6
+      "cash" : 55,
+      "goods" : 6,
+      "index" : 24,
+      "repeatCount" : 10
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 20,
-      "grade" : 2,
-      "minLevel" : 15,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 6
+      "cash" : 60,
+      "goods" : 6,
+      "index" : 25,
+      "repeatCount" : 11
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 20,
-      "grade" : 3,
-      "minLevel" : 25,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 6
+      "cash" : 65,
+      "goods" : 6,
+      "index" : 26,
+      "repeatCount" : 12
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 20,
-      "grade" : 4,
-      "minLevel" : 35,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 6
+      "cash" : 70,
+      "goods" : 6,
+      "index" : 27,
+      "repeatCount" : 13
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 20,
-      "grade" : 5,
-      "minLevel" : 50,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 6
+      "cash" : 75,
+      "goods" : 6,
+      "index" : 28,
+      "repeatCount" : 14
    },
    {
-      "displayCount" : 10,
-      "g_idx" : 20,
-      "grade" : 6,
-      "minLevel" : 70,
-      "numberMeasure" : 3,
-      "openTime" : [
-         "21:00",
-         0,
-         0,
-         0,
-         0
-      ],
-      "priceAddPercent" : 200,
-      "startRechargePrice" : 100,
-      "type" : 6
+      "cash" : 80,
+      "goods" : 6,
+      "index" : 29,
+      "repeatCount" : 15
+   },
+   {
+      "cash" : 10,
+      "goods" : 7,
+      "index" : 30,
+      "repeatCount" : 1
+   },
+   {
+      "cash" : 15,
+      "goods" : 7,
+      "index" : 31,
+      "repeatCount" : 2
+   },
+   {
+      "cash" : 20,
+      "goods" : 7,
+      "index" : 32,
+      "repeatCount" : 3
+   },
+   {
+      "cash" : 25,
+      "goods" : 7,
+      "index" : 33,
+      "repeatCount" : 4
+   },
+   {
+      "cash" : 30,
+      "goods" : 7,
+      "index" : 34,
+      "repeatCount" : 5
+   },
+   {
+      "cash" : 35,
+      "goods" : 7,
+      "index" : 35,
+      "repeatCount" : 6
+   },
+   {
+      "cash" : 40,
+      "goods" : 7,
+      "index" : 36,
+      "repeatCount" : 7
+   },
+   {
+      "cash" : 45,
+      "goods" : 7,
+      "index" : 37,
+      "repeatCount" : 8
+   },
+   {
+      "cash" : 50,
+      "goods" : 7,
+      "index" : 38,
+      "repeatCount" : 9
+   },
+   {
+      "cash" : 55,
+      "goods" : 7,
+      "index" : 39,
+      "repeatCount" : 10
+   },
+   {
+      "cash" : 60,
+      "goods" : 7,
+      "index" : 40,
+      "repeatCount" : 11
+   },
+   {
+      "cash" : 65,
+      "goods" : 7,
+      "index" : 41,
+      "repeatCount" : 12
+   },
+   {
+      "cash" : 70,
+      "goods" : 7,
+      "index" : 42,
+      "repeatCount" : 13
+   },
+   {
+      "cash" : 75,
+      "goods" : 7,
+      "index" : 43,
+      "repeatCount" : 14
+   },
+   {
+      "cash" : 80,
+      "goods" : 7,
+      "index" : 44,
+      "repeatCount" : 15
+   },
+   {
+      "cash" : 10,
+      "goods" : 8,
+      "index" : 45,
+      "repeatCount" : 1
+   },
+   {
+      "cash" : 15,
+      "goods" : 8,
+      "index" : 46,
+      "repeatCount" : 2
+   },
+   {
+      "cash" : 20,
+      "goods" : 8,
+      "index" : 47,
+      "repeatCount" : 3
+   },
+   {
+      "cash" : 25,
+      "goods" : 8,
+      "index" : 48,
+      "repeatCount" : 4
+   },
+   {
+      "cash" : 30,
+      "goods" : 8,
+      "index" : 49,
+      "repeatCount" : 5
+   },
+   {
+      "cash" : 35,
+      "goods" : 8,
+      "index" : 50,
+      "repeatCount" : 6
+   },
+   {
+      "cash" : 40,
+      "goods" : 8,
+      "index" : 51,
+      "repeatCount" : 7
+   },
+   {
+      "cash" : 45,
+      "goods" : 8,
+      "index" : 52,
+      "repeatCount" : 8
+   },
+   {
+      "cash" : 50,
+      "goods" : 8,
+      "index" : 53,
+      "repeatCount" : 9
+   },
+   {
+      "cash" : 55,
+      "goods" : 8,
+      "index" : 54,
+      "repeatCount" : 10
+   },
+   {
+      "cash" : 60,
+      "goods" : 8,
+      "index" : 55,
+      "repeatCount" : 11
+   },
+   {
+      "cash" : 65,
+      "goods" : 8,
+      "index" : 56,
+      "repeatCount" : 12
+   },
+   {
+      "cash" : 70,
+      "goods" : 8,
+      "index" : 57,
+      "repeatCount" : 13
+   },
+   {
+      "cash" : 75,
+      "goods" : 8,
+      "index" : 58,
+      "repeatCount" : 14
+   },
+   {
+      "cash" : 80,
+      "goods" : 8,
+      "index" : 59,
+      "repeatCount" : 15
+   },
+   {
+      "cash" : 10,
+      "goods" : 9,
+      "index" : 60,
+      "repeatCount" : 1
+   },
+   {
+      "cash" : 15,
+      "goods" : 9,
+      "index" : 61,
+      "repeatCount" : 2
+   },
+   {
+      "cash" : 20,
+      "goods" : 9,
+      "index" : 62,
+      "repeatCount" : 3
+   },
+   {
+      "cash" : 25,
+      "goods" : 9,
+      "index" : 63,
+      "repeatCount" : 4
+   },
+   {
+      "cash" : 30,
+      "goods" : 9,
+      "index" : 64,
+      "repeatCount" : 5
+   },
+   {
+      "cash" : 35,
+      "goods" : 9,
+      "index" : 65,
+      "repeatCount" : 6
+   },
+   {
+      "cash" : 40,
+      "goods" : 9,
+      "index" : 66,
+      "repeatCount" : 7
+   },
+   {
+      "cash" : 45,
+      "goods" : 9,
+      "index" : 67,
+      "repeatCount" : 8
+   },
+   {
+      "cash" : 50,
+      "goods" : 9,
+      "index" : 68,
+      "repeatCount" : 9
+   },
+   {
+      "cash" : 55,
+      "goods" : 9,
+      "index" : 69,
+      "repeatCount" : 10
+   },
+   {
+      "cash" : 60,
+      "goods" : 9,
+      "index" : 70,
+      "repeatCount" : 11
+   },
+   {
+      "cash" : 65,
+      "goods" : 9,
+      "index" : 71,
+      "repeatCount" : 12
+   },
+   {
+      "cash" : 70,
+      "goods" : 9,
+      "index" : 72,
+      "repeatCount" : 13
+   },
+   {
+      "cash" : 75,
+      "goods" : 9,
+      "index" : 73,
+      "repeatCount" : 14
+   },
+   {
+      "cash" : 80,
+      "goods" : 9,
+      "index" : 74,
+      "repeatCount" : 15
+   },
+   {
+      "cash" : 10,
+      "goods" : 10,
+      "index" : 75,
+      "repeatCount" : 1
+   },
+   {
+      "cash" : 15,
+      "goods" : 10,
+      "index" : 76,
+      "repeatCount" : 2
+   },
+   {
+      "cash" : 20,
+      "goods" : 10,
+      "index" : 77,
+      "repeatCount" : 3
+   },
+   {
+      "cash" : 25,
+      "goods" : 10,
+      "index" : 78,
+      "repeatCount" : 4
+   },
+   {
+      "cash" : 30,
+      "goods" : 10,
+      "index" : 79,
+      "repeatCount" : 5
+   },
+   {
+      "cash" : 35,
+      "goods" : 10,
+      "index" : 80,
+      "repeatCount" : 6
+   },
+   {
+      "cash" : 40,
+      "goods" : 10,
+      "index" : 81,
+      "repeatCount" : 7
+   },
+   {
+      "cash" : 45,
+      "goods" : 10,
+      "index" : 82,
+      "repeatCount" : 8
+   },
+   {
+      "cash" : 50,
+      "goods" : 10,
+      "index" : 83,
+      "repeatCount" : 9
+   },
+   {
+      "cash" : 55,
+      "goods" : 10,
+      "index" : 84,
+      "repeatCount" : 10
+   },
+   {
+      "cash" : 60,
+      "goods" : 10,
+      "index" : 85,
+      "repeatCount" : 11
+   },
+   {
+      "cash" : 65,
+      "goods" : 10,
+      "index" : 86,
+      "repeatCount" : 12
+   },
+   {
+      "cash" : 70,
+      "goods" : 10,
+      "index" : 87,
+      "repeatCount" : 13
+   },
+   {
+      "cash" : 75,
+      "goods" : 10,
+      "index" : 88,
+      "repeatCount" : 14
+   },
+   {
+      "cash" : 80,
+      "goods" : 10,
+      "index" : 89,
+      "repeatCount" : 15
    }
 ]
