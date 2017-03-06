@@ -250,7 +250,7 @@
    {
       "gachaType" : 2,
       "index" : 31,
-      "rate" : 500,
+      "rate" : 20,
       "rewardCount" : 1,
       "rewardId" : 56,
       "rewardType" : 3
@@ -450,7 +450,7 @@
    {
       "gachaType" : 2,
       "index" : 56,
-      "rate" : 1400,
+      "rate" : 700,
       "rewardCount" : 2,
       "rewardId" : 56,
       "rewardType" : 2

@@ -3270,6 +3270,21 @@
       "typeidx" : 20007
    },
    {
+      "display" : 4,
+      "idx" : 331,
+      "navigatortype1" : 12,
+      "navigatortype2" : 0,
+      "navigatortype3" : 0,
+      "position1" : 0,
+      "position2" : 0,
+      "position3" : 0,
+      "price" : 100,
+      "pricetype" : 1,
+      "pricetypeidx" : 4,
+      "type" : 5,
+      "typeidx" : 20008
+   },
+   {
       "display" : 1,
       "idx" : 30001,
       "navigatortype1" : 13,

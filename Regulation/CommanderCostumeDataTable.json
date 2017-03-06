@@ -630,6 +630,24 @@
       "statType3" : 0
    },
    {
+      "Desc" : 42053,
+      "atlasNumber" : 1,
+      "cid" : 15,
+      "ctid" : 15012,
+      "gid" : 0,
+      "name" : 40053,
+      "order" : 2,
+      "sell" : 2,
+      "sellPrice" : 0,
+      "skinName" : 12,
+      "stat1" : 30,
+      "stat2" : 15,
+      "stat3" : 0,
+      "statType1" : 2,
+      "statType2" : 6,
+      "statType3" : 0
+   },
+   {
       "Desc" : 42001,
       "atlasNumber" : 1,
       "cid" : 16,
@@ -646,6 +664,24 @@
       "statType1" : 0,
       "statType2" : 0,
       "statType3" : 0
+   },
+   {
+      "Desc" : 42055,
+      "atlasNumber" : 1,
+      "cid" : 16,
+      "ctid" : 16012,
+      "gid" : 0,
+      "name" : 40055,
+      "order" : 2,
+      "sell" : 2,
+      "sellPrice" : 0,
+      "skinName" : 12,
+      "stat1" : 175,
+      "stat2" : 50,
+      "stat3" : 10,
+      "statType1" : 1,
+      "statType2" : 7,
+      "statType3" : 6
    },
    {
       "Desc" : 42001,
@@ -933,6 +969,24 @@
       "stat3" : 0,
       "statType1" : 0,
       "statType2" : 0,
+      "statType3" : 0
+   },
+   {
+      "Desc" : 42054,
+      "atlasNumber" : 1,
+      "cid" : 20,
+      "ctid" : 20012,
+      "gid" : 0,
+      "name" : 40054,
+      "order" : 2,
+      "sell" : 2,
+      "sellPrice" : 0,
+      "skinName" : 12,
+      "stat1" : 30,
+      "stat2" : 110,
+      "stat3" : 0,
+      "statType1" : 2,
+      "statType2" : 5,
       "statType3" : 0
    },
    {
@@ -1314,6 +1368,24 @@
       "statType3" : 0
    },
    {
+      "Desc" : 42052,
+      "atlasNumber" : 1,
+      "cid" : 31,
+      "ctid" : 31012,
+      "gid" : 0,
+      "name" : 40052,
+      "order" : 2,
+      "sell" : 2,
+      "sellPrice" : 0,
+      "skinName" : 12,
+      "stat1" : 30,
+      "stat2" : 225,
+      "stat3" : 0,
+      "statType1" : 2,
+      "statType2" : 1,
+      "statType3" : 0
+   },
+   {
       "Desc" : 42001,
       "atlasNumber" : 1,
       "cid" : 32,
@@ -1584,6 +1656,24 @@
       "statType3" : 0
    },
    {
+      "Desc" : 42056,
+      "atlasNumber" : 1,
+      "cid" : 40,
+      "ctid" : 40012,
+      "gid" : 0,
+      "name" : 40056,
+      "order" : 2,
+      "sell" : 2,
+      "sellPrice" : 0,
+      "skinName" : 12,
+      "stat1" : 225,
+      "stat2" : 132,
+      "stat3" : 0,
+      "statType1" : 1,
+      "statType2" : 4,
+      "statType3" : 0
+   },
+   {
       "Desc" : 42001,
       "atlasNumber" : 1,
       "cid" : 41,
@@ -1689,6 +1779,24 @@
       "stat3" : 0,
       "statType1" : 0,
       "statType2" : 0,
+      "statType3" : 0
+   },
+   {
+      "Desc" : 42057,
+      "atlasNumber" : 1,
+      "cid" : 47,
+      "ctid" : 47012,
+      "gid" : 0,
+      "name" : 40057,
+      "order" : 2,
+      "sell" : 2,
+      "sellPrice" : 0,
+      "skinName" : 12,
+      "stat1" : 30,
+      "stat2" : 100,
+      "stat3" : 0,
+      "statType1" : 2,
+      "statType2" : 7,
       "statType3" : 0
    },
    {
