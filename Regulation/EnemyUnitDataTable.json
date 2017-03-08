@@ -46370,7 +46370,7 @@
       "unitClass" : 1,
       "unitGrade" : 1,
       "unitId" : 715611,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 5,
       "unitScale" : 70,
       "wave" : 1
@@ -47220,7 +47220,7 @@
       "unitClass" : 1,
       "unitGrade" : 1,
       "unitId" : 725611,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 1,
       "unitScale" : 200,
       "wave" : 1
@@ -47237,7 +47237,7 @@
       "unitClass" : 1,
       "unitGrade" : 1,
       "unitId" : 725612,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 3,
       "unitScale" : 200,
       "wave" : 1
@@ -47254,7 +47254,7 @@
       "unitClass" : 1,
       "unitGrade" : 1,
       "unitId" : 725613,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 8,
       "unitScale" : 200,
       "wave" : 1
@@ -47348,10 +47348,10 @@
       "id" : 7302,
       "index" : 2785,
       "skillLevel" : [
-         15,
-         15,
-         14,
-         6
+         34,
+         34,
+         33,
+         25
       ],
       "unitClass" : 8,
       "unitGrade" : 2,
@@ -47365,10 +47365,10 @@
       "id" : 7303,
       "index" : 2786,
       "skillLevel" : [
-         34,
-         34,
-         33,
-         25
+         50,
+         50,
+         49,
+         41
       ],
       "unitClass" : 10,
       "unitGrade" : 2,
@@ -47399,10 +47399,10 @@
       "id" : 7303,
       "index" : 2788,
       "skillLevel" : [
-         34,
-         34,
-         33,
-         25
+         50,
+         50,
+         49,
+         41
       ],
       "unitClass" : 10,
       "unitGrade" : 2,
@@ -47416,10 +47416,10 @@
       "id" : 7304,
       "index" : 2789,
       "skillLevel" : [
-         50,
-         50,
-         49,
-         41
+         64,
+         64,
+         63,
+         55
       ],
       "unitClass" : 12,
       "unitGrade" : 3,
@@ -47433,10 +47433,10 @@
       "id" : 7304,
       "index" : 2790,
       "skillLevel" : [
-         50,
-         50,
-         49,
-         41
+         64,
+         64,
+         63,
+         55
       ],
       "unitClass" : 12,
       "unitGrade" : 3,
@@ -47450,10 +47450,10 @@
       "id" : 7305,
       "index" : 2791,
       "skillLevel" : [
-         64,
-         64,
-         63,
-         55
+         74,
+         74,
+         73,
+         65
       ],
       "unitClass" : 13,
       "unitGrade" : 4,
@@ -47467,10 +47467,10 @@
       "id" : 7305,
       "index" : 2792,
       "skillLevel" : [
-         64,
-         64,
-         63,
-         55
+         74,
+         74,
+         73,
+         65
       ],
       "unitClass" : 13,
       "unitGrade" : 4,
@@ -47484,15 +47484,15 @@
       "id" : 7306,
       "index" : 2793,
       "skillLevel" : [
-         74,
-         74,
-         73,
-         65
+         84,
+         84,
+         83,
+         75
       ],
-      "unitClass" : 15,
+      "unitClass" : 16,
       "unitGrade" : 5,
       "unitId" : 5004,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 5,
       "unitScale" : 100,
       "wave" : 1
@@ -47501,15 +47501,15 @@
       "id" : 7306,
       "index" : 2794,
       "skillLevel" : [
-         79,
-         79,
-         78,
-         70
+         84,
+         84,
+         83,
+         75
       ],
-      "unitClass" : 15,
+      "unitClass" : 16,
       "unitGrade" : 5,
       "unitId" : 5011,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 8,
       "unitScale" : 100,
       "wave" : 1
@@ -48240,7 +48240,7 @@
       "unitClass" : 1,
       "unitGrade" : 1,
       "unitId" : 735611,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 1,
       "unitScale" : 100,
       "wave" : 1
@@ -48257,7 +48257,7 @@
       "unitClass" : 1,
       "unitGrade" : 1,
       "unitId" : 735612,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 2,
       "unitScale" : 100,
       "wave" : 1
@@ -48274,7 +48274,7 @@
       "unitClass" : 1,
       "unitGrade" : 1,
       "unitId" : 735613,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 3,
       "unitScale" : 100,
       "wave" : 1
@@ -48291,7 +48291,7 @@
       "unitClass" : 1,
       "unitGrade" : 1,
       "unitId" : 735614,
-      "unitLevel" : 79,
+      "unitLevel" : 84,
       "unitPosition" : 8,
       "unitScale" : 200,
       "wave" : 1
