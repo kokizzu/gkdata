@@ -3829,3 +3829,4 @@ key|S_Kr|S_En|S_Beon|S_Esp|S_Deu|S_Idn|S_Tha|S_Fr|S_Gan
 41040113|[b][F8FF34]퍽!![/b]|[b][F8FF34]퍽!![/b]|[b][F8FF34]퍽!![/b]|[b][F8FF34]퍽!![/b]|[b][F8FF34]퍽!![/b]|[b][F8FF34]퍽!![/b]|[b][F8FF34]퍽!![/b]|[b][F8FF34]퍽!![/b]|[b][F8FF34]퍽!![/b]
 41040114|으으…\n(정말 여자의 마음은 어렵구먼…)|으으…\n(정말 여자의 마음은 어렵구먼…)|으으…\n(정말 여자의 마음은 어렵구먼…)|으으…\n(정말 여자의 마음은 어렵구먼…)|으으…\n(정말 여자의 마음은 어렵구먼…)|으으…\n(정말 여자의 마음은 어렵구먼…)|으으…\n(정말 여자의 마음은 어렵구먼…)|으으…\n(정말 여자의 마음은 어렵구먼…)|으으…\n(정말 여자의 마음은 어렵구먼…)
 41040115|To Be Continued|To Be Continued|To Be Continued|To Be Continued|To Be Continued|To Be Continued|To Be Continued|To Be Continued|To Be Continued
+         

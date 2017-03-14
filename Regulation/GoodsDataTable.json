@@ -1253,7 +1253,7 @@
       "max" : 9999,
       "name" : 4029,
       "rechargeMax" : 0,
-      "rechargeTime" : 300,
+      "rechargeTime" : 150,
       "rechargeType" : 2,
       "serverFieldName" : "skil",
       "storage" : 0,
