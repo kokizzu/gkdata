@@ -136,6 +136,23 @@
       }
    },
    {
+      "key" : "50062",
+      "off" : {
+         "duration" : 8000,
+         "eventTime" : -1,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 0,
+         "timeSleepDuringFire" : true
+      },
+      "on" : {
+         "duration" : 9000,
+         "eventTime" : 0,
+         "fireDelayTime" : 0,
+         "hitDelayTime" : 700,
+         "timeSleepDuringFire" : true
+      }
+   },
+   {
       "key" : "50072",
       "off" : {
          "duration" : 3500,
